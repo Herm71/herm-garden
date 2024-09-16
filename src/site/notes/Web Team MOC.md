@@ -4,6 +4,7 @@
 
 ## Project Notes
 
+- [[2024-2025 Goals\|2024-2025 Goals]]
 - [[wp-dev.ucsc notes\|wp-dev.ucsc notes]]
 - [[Team Notes\|Team Notes]]
 - [[Dashboard\|Dashboard]]
