@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2024-self-eval/"}
+{"dg-publish":true,"permalink":"/2024-self-eval/","hide":true}
 ---
 
 MOC: [[Web Team MOC\|Web Team MOC]]

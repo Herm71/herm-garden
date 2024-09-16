@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wp-dev-ucsc-notes/"}
+{"dg-publish":true,"permalink":"/wp-dev-ucsc-notes/","hide":true}
 ---
 
 MOC: [[Web Team MOC\|Web Team MOC]]
