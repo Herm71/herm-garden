@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/web-team-moc/"}
+{"dg-publish":true,"permalink":"/web-team-moc/","title":"Web Team"}
 ---
 
 ## Project Notes
