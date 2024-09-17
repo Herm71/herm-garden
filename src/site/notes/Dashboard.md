@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/dashboard/","title":"Dashboard","hide":true,"tags":["gardenEntry"]}
 ---
 
-<div class="title" style="color:Sienna">DASHBOARD</div>
-
 [Jason Chafin's](https://jasonchafin.com) Digital Garden
 # Inbox
 - [[Brain Droppings\|Brain Droppings]]
@@ -11,20 +9,9 @@
 { .block-language-dataview}
 # Work
 
-- 💼 Admin
-	- [[Web Team MOC\|Web Team MOC]]
-	- [Digital Garden](https://herm-garden.netlify.app/)
-- 📽️  Not WordPress
-	- [[Events Calendar MOC\|Events Calendar MOC]]
-- :obs_code_glyph: WordPress
-	- [[UCSC Theme MOC\|UCSC Theme MOC]]
-	- [[Patterns MOC\|Patterns MOC]]
-	- [[Plugins MOC\|Plugins MOC]]
-		- [[Custom Functionality MOC\|Custom Functionality MOC]]
-		- [[News Functionality MOC\|News Functionality MOC]]
-		- [[Gutenberg Blocks MOC\|Gutenberg Blocks MOC]]
-	- [[ITS Service Team MOC\|ITS Service Team MOC]]
-	- [[News Center Migration MOC\|News Center Migration MOC]]
+- [[Web Team MOC\|Web Team MOC]]
+- [Digital Garden](https://herm-garden.netlify.app/)
+
 ## Work Tasks
 # Events Calendar
 
@@ -40,10 +27,6 @@
     - [ ] Change muircat image to a stock ucsc image 📅 2024-08-20
 
 { .block-language-dataview}
-# Published
-
-- 💼 [[Garden Home\|Garden Home]]
-
 
 # Personal
 
