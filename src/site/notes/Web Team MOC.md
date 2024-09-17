@@ -13,8 +13,7 @@
 
 ## Projects
 - [[UCSC Theme MOC\|UCSC Theme MOC]]
-- [[Custom Functionality MOC\|Custom Functionality MOC]]
-- [[News Functionality MOC\|News Functionality MOC]]
+- [[Plugins MOC\|Plugins MOC]]
 - [[Events Calendar MOC\|Events Calendar MOC]]
 
 ## To do
