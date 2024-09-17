@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/dashboard/","title":"Dashboard"}
+{"dg-publish":true,"permalink":"/dashboard/","title":"Dashboard","tags":["gardenEntry"]}
 ---
 
 <div class="title" style="color:Sienna">DASHBOARD</div>
 
+[Jason Chafin's](https://jasonchafin.com) Digital Garden
 # Inbox
 - [[Brain Droppings\|Brain Droppings]]
 
