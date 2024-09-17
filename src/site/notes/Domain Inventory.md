@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/domain-inventory/","hide":true}
+{"dg-publish":true,"permalink":"/domain-inventory/"}
 ---
 
 MOC: [[Inbox\|Inbox]]

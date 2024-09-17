@@ -33,13 +33,14 @@ https://app.netlify.com/start/deploy?repository=https://github.com/oleeskild/dig
 | [[2024-2025 Goals\|2024-2025 Goals]]                         | <ul><li><b>project</b>: \-</li><li><b>tags</b>: \-</li><li><b>dg-publish</b>: true</li><li><b>dg-hide</b>: true</li><li><b>order</b>: 9</li></ul>                                                                                                                      |
 | [[Custom Functionality MOC\|Custom Functionality MOC]]       | <ul><li><b>title</b>: Custom Functionality</li><li><b>project</b>: \-</li><li><b>tags</b>: \-</li><li><b>dg-publish</b>: true</li><li><b>dg-hide</b>: true</li></ul>                                                                                                   |
 | [[Writing MOC\|Writing MOC]]                                 | <ul><li><b>title</b>: Writing</li><li><b>project</b>: \-</li><li><b>tags</b>: \-</li><li><b>dg-publish</b>: true</li><li><b>dg-hide</b>: false</li></ul>                                                                                                               |
-| [[Domain Inventory\|Domain Inventory]]                       | <ul><li><b>project</b>: \-</li><li><b>tags</b>: \-</li><li><b>dg-publish</b>: true</li><li><b>dg-hide</b>: true</li></ul>                                                                                                                                              |
+| [[Domain Inventory\|Domain Inventory]]                       | <ul><li><b>project</b>: \-</li><li><b>tags</b>: \-</li><li><b>dg-publish</b>: true</li><li><b>dg-hide</b>: false</li></ul>                                                                                                                                             |
 
 { .block-language-dataview}
 
-| File                                   | file.frontmatter                                                                                                                                         |
-| -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Templates/Core/New MOC\|New MOC]] | <ul><li><b>title</b>: \-</li><li><b>project</b>: \-</li><li><b>tags</b>: \-</li><li><b>dg-publish</b>: false</li><li><b>dg-hide</b>: false</li></ul>     |
-| [[Writing MOC\|Writing MOC]]        | <ul><li><b>title</b>: Writing</li><li><b>project</b>: \-</li><li><b>tags</b>: \-</li><li><b>dg-publish</b>: true</li><li><b>dg-hide</b>: false</li></ul> |
+| File                                      | file.frontmatter                                                                                                                                         |
+| ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Templates/Core/New MOC\|New MOC]]    | <ul><li><b>title</b>: \-</li><li><b>project</b>: \-</li><li><b>tags</b>: \-</li><li><b>dg-publish</b>: false</li><li><b>dg-hide</b>: false</li></ul>     |
+| [[Writing MOC\|Writing MOC]]           | <ul><li><b>title</b>: Writing</li><li><b>project</b>: \-</li><li><b>tags</b>: \-</li><li><b>dg-publish</b>: true</li><li><b>dg-hide</b>: false</li></ul> |
+| [[Domain Inventory\|Domain Inventory]] | <ul><li><b>project</b>: \-</li><li><b>tags</b>: \-</li><li><b>dg-publish</b>: true</li><li><b>dg-hide</b>: false</li></ul>                               |
 
 { .block-language-dataview}
