@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dashboard/","title":"Dashboard","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/dashboard/","title":"Dashboard","hide":true,"tags":["gardenEntry"]}
 ---
 
 <div class="title" style="color:Sienna">DASHBOARD</div>
