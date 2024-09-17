@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/events-calendar-moc/","title":"Events Calendar"}
+{"dg-publish":true,"permalink":"/events-calendar-moc/","title":"Events Calendar","hide":true}
 ---
 
 # Project Notes
