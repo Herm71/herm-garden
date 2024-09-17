@@ -4,6 +4,7 @@
 
 [Jason Chafin's](https://jasonchafin.com) Digital Garden
 # Inbox
+- [[Domain Inventory\|Domain Inventory]]
 
 { .block-language-dataview}
 # Work
