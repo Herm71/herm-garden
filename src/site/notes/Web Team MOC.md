@@ -15,6 +15,9 @@
 - [[UCSC Theme MOC\|UCSC Theme MOC]]
 - [[Plugins MOC\|Plugins MOC]]
 - [[Events Calendar MOC\|Events Calendar MOC]]
+- [[Patterns MOC\|Patterns MOC]]
+- [[News Center Migration MOC\|News Center Migration MOC]]
+- [[ITS Service Team MOC\|ITS Service Team MOC]]
 
 ## To do
 
