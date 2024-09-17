@@ -2,15 +2,20 @@
 {"dg-publish":true,"permalink":"/web-team-moc/","title":"Web Team"}
 ---
 
-## Project Notes
+## Index
 
-- [[2024-2025 Goals\|2024-2025 Goals]]
-- [[wp-dev.ucsc notes\|wp-dev.ucsc notes]]
 - [[Team Notes\|Team Notes]]
-- [[Dashboard\|Dashboard]]
+- [[wp-dev.ucsc notes\|wp-dev.ucsc notes]]
 - [[2024 Self Eval\|2024 Self Eval]]
+- [[2024-2025 Goals\|2024-2025 Goals]]
 
 { .block-language-dataview}
+
+## Projects
+- [[UCSC Theme MOC\|UCSC Theme MOC]]
+- [[Custom Functionality MOC\|Custom Functionality MOC]]
+- [[News Functionality MOC\|News Functionality MOC]]
+- [[Events Calendar MOC\|Events Calendar MOC]]
 
 ## To do
 

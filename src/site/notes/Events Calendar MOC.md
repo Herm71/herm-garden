@@ -3,6 +3,7 @@
 ---
 
 # Project Notes
+- [[Web Team MOC\|Web Team MOC]]
 - [[Update communication\|Update communication]]
 - [[Events Calendar Notes\|Events Calendar Notes]]
 - [[Dashboard\|Dashboard]]
