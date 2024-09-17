@@ -4,7 +4,6 @@
 
 [Jason Chafin's](https://jasonchafin.com) Digital Garden
 # Inbox
-- [[Brain Droppings\|Brain Droppings]]
 
 { .block-language-dataview}
 # Work
@@ -28,8 +27,7 @@
 
 { .block-language-dataview}
 
-# Personal
+# Writing
 
-- 💼 Admin
-	- [[Web Team MOC\|Web Team MOC]]
+- [[Writing MOC\|Writing MOC]]
 
