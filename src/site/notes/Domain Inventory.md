@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/domain-inventory/"}
+{"dg-publish":true,"permalink":"/domain-inventory/","hide":true}
 ---
 
 MOC: [[Tech MOC\|Tech MOC]]
