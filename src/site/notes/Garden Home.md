@@ -9,3 +9,5 @@ Welcome to my [Digital Garden](https://maggieappleton.com/garden-history). This 
 I am currently using this space to share notes with colleagues, reference items for easy access, and nascent thoughts that may one day become a full post. 
 
 These notes are first drafted in [Obsidian](https://obsidian.md/) and published to [Netlify](https://www.netlify.com/).
+
+Learn more about me at [jasonchafin.com](https://jasonchafin.com).

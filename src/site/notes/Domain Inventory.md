@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/domain-inventory/","hide":true}
 ---
 
-[[Tech MOC\|Tech MOC]]
+[[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[Tech MOC\|Tech MOC]]
 
 
 | Domain Name                                                                       | Registrar                             | Status  |
