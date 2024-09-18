@@ -32,6 +32,7 @@ https://app.netlify.com/start/deploy?repository=https://github.com/oleeskild/dig
 | [[Web Team MOC\|Web Team MOC]]                               | <ul><li><b>title</b>: Web Team</li><li><b>project</b>: Web Team</li><li><b>tags</b>: \-</li><li><b>dg-publish</b>: true</li><li><b>status</b>: active</li><li><b>cssclasses</b>: <ul><li>dashboard</li></ul></li></ul>                                                 |
 | [[Writing MOC\|Writing MOC]]                                 | <ul><li><b>title</b>: Writing</li><li><b>project</b>: \-</li><li><b>tags</b>: \-</li><li><b>dg-publish</b>: true</li><li><b>dg-hide</b>: false</li></ul>                                                                                                               |
 | [[wp-dev.ucsc notes\|wp-dev.ucsc notes]]                     | <ul><li><b>project</b>: Gutenberg Blocks</li><li><b>tags</b>: \-</li><li><b>dg-publish</b>: true</li><li><b>dg-hide</b>: true</li><li><b>order</b>: 2</li></ul>                                                                                                        |
+| [[Tech MOC\|Tech MOC]]                                       | <ul><li><b>title</b>: Tech Stuff</li><li><b>project</b>: \-</li><li><b>tags</b>: \-</li><li><b>dg-publish</b>: true</li><li><b>dg-hide</b>: false</li></ul>                                                                                                            |
 
 { .block-language-dataview}
 
@@ -41,5 +42,6 @@ https://app.netlify.com/start/deploy?repository=https://github.com/oleeskild/dig
 | [[Domain Inventory\|Domain Inventory]] | <ul><li><b>project</b>: \-</li><li><b>tags</b>: \-</li><li><b>dg-publish</b>: true</li><li><b>dg-hide</b>: false</li></ul>                                                                    |
 | [[Templates/Core/New MOC\|New MOC]]    | <ul><li><b>title</b>: \-</li><li><b>project</b>: \-</li><li><b>tags</b>: \-</li><li><b>dg-publish</b>: false</li><li><b>dg-hide</b>: false</li></ul>                                          |
 | [[Writing MOC\|Writing MOC]]           | <ul><li><b>title</b>: Writing</li><li><b>project</b>: \-</li><li><b>tags</b>: \-</li><li><b>dg-publish</b>: true</li><li><b>dg-hide</b>: false</li></ul>                                      |
+| [[Tech MOC\|Tech MOC]]                 | <ul><li><b>title</b>: Tech Stuff</li><li><b>project</b>: \-</li><li><b>tags</b>: \-</li><li><b>dg-publish</b>: true</li><li><b>dg-hide</b>: false</li></ul>                                   |
 
 { .block-language-dataview}

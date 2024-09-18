@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/domain-inventory/"}
 ---
 
-MOC: [[Inbox\|Inbox]]
+MOC: [[Tech MOC\|Tech MOC]]
 
 
 | Domain Name                                                                       | Registrar                             | Status  |
