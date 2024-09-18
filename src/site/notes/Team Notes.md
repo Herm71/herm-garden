@@ -9,6 +9,8 @@ MOC: [[Web Team MOC\|Web Team MOC]]
 **Discussion Items**
 - [Maitra Memorial Lectures](https://foundation.ucsc.edu/lectures/maitra-lectures.html) on the **Foundation** website. 
   Currently, they exist as a page in WCMS. Adrienne Harrel, via Brandon Hinks, requested that links to ***Maitra Memorial Lectures***  from the [Lectures](https://foundation.ucsc.edu/lectures/foundation-lectures.html) page redirect to the [Maitra site on the Special Events home page](https://specialevents.ucsc.edu/events/maitra). **Trung**?
+- **Concept3D/Localist**: Meeting tomorrow. Explain what happened when Rob was gone: Via SHJ, Carolyn asked me to request a "six month plan" or the like, Daniel reponded that we need a meeting.
+- **Demo:** [Digital Garden]
 
 ## 2024-08-27
 
