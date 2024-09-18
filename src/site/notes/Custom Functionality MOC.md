@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/custom-functionality-moc/","title":"Custom Functionality","hide":true}
 ---
 
-MOC: [[Plugins MOC\|Plugins MOC]]
+[[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[Plugins MOC\|Plugins MOC]]
 
 ## Index
 

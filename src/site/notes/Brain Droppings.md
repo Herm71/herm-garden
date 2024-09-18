@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/brain-droppings/","hide":true}
 ---
 
-MOC: [[Writing MOC\|Writing MOC]]
+[[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[Writing MOC\|Writing MOC]]
 
 
 https://app.netlify.com/start/deploy?repository=https://github.com/oleeskild/digitalgarden

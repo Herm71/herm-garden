@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/plugins-moc/","title":"WordPress Plugins","hide":true,"tags":["WordPress"]}
 ---
 
-MOC: [[Web Team MOC\|Web Team MOC]]
+[[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[Web Team MOC\|Web Team MOC]]
 # Index
 - [[News Functionality MOC\|News Functionality MOC]]
 - [[Gutenberg Blocks MOC\|Gutenberg Blocks MOC]]

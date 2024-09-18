@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/wp-dev-ucsc-notes/","hide":true}
 ---
 
-MOC: [[Web Team MOC\|Web Team MOC]]
+[[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[Web Team MOC\|Web Team MOC]]
 
 ~~Notes on setting up wp-dev.ucsc for development of Gutenberg Blocks Plugin~~.
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cf-notes/","hide":true,"tags":["WordPress","project"]}
 ---
 
-MOC: [[Custom Functionality MOC\|Custom Functionality MOC]]
+[[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[Custom Functionality MOC\|Custom Functionality MOC]]
 
 # Project Info
 - [Repository](https://github.com/ucsc/ucsc-custom-functionality)

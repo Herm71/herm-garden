@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/news-center-migration-notes/","hide":true,"tags":["WordPress","project"]}
 ---
 
-MOC: [[News Center Migration MOC\|News Center Migration MOC]]
+[[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[News Center Migration MOC\|News Center Migration MOC]]
 
 ## 2024-09-17
 
