@@ -4,12 +4,18 @@
 
 MOC: [[Web Team MOC\|Web Team MOC]]
 
-## 242024-08-27
+## 2024-09-18
+
+**Discussion Items**
+- [Maitra Memorial Lectures](https://foundation.ucsc.edu/lectures/maitra-lectures.html) on the **Foundation** website. 
+  Currently, they exist as a page in WCMS. Adrienne Harrel, via Brandon Hinks, requested that links to ***Maitra Memorial Lectures***  from the [Lectures](https://foundation.ucsc.edu/lectures/foundation-lectures.html) page redirect to the [Maitra site on the Special Events home page](https://specialevents.ucsc.edu/events/maitra). **Trung**?
+
+## 2024-08-27
 
 Evals? 
 
 Docker issues with Linux: Naming and permissions. See [[wp-dev.ucsc notes\|wp-dev.ucsc notes]].
-## 242024-08-22
+## 2024-08-22
 - [x] Add `@ucschumanities` Instagram account to Social Media Directory📅 2024-08-23 ✅ 2024-08-23
 ## 2024-08-20
 [Mark Budz issue](https://github.com/ucsc/ucsc-2022/issues/348): Try playing around with DOM elements in code-pen. See if possibled to pull one element on top of another with no whitespace beneath it [[Issue 348 Stat Pattern Bounding Box\|Issue 348 Stat Pattern Bounding Box]]. 

@@ -4,9 +4,24 @@
 
 MOC: [[News Center Migration MOC\|News Center Migration MOC]]
 
-## 2024-09-10
+## 2024-09-17
 
-
+## Spinning plates (Rob's word)
+- News Block for WordPress sites
+	- Waiting or testing
+- Data integrity of the import(s)
+- Category re-implementation
+- Retroactive category filling (Sections)
+- Final data import
+- Design of three templates:
+	- In progress. Need timeline
+	- Home page
+	- Blog page
+	- Single story page
+- Implement three templates
+- Training for writers and C&M staff
+- Redirects for numeric URLs
+- Solution for WCMS sites when news switches over
 ## 2024-08-20
 
 - [x] Discuss Email Newsletter Archives, whether and how we should do it. 📅 2024-08-20 ✅ 2024-08-20

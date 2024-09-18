@@ -4,9 +4,9 @@
 
 MOC: [[Web Team MOC\|Web Team MOC]]
 # Index
-- [[Custom Functionality MOC\|Custom Functionality MOC]]
 - [[News Functionality MOC\|News Functionality MOC]]
 - [[Gutenberg Blocks MOC\|Gutenberg Blocks MOC]]
+- [[Custom Functionality MOC\|Custom Functionality MOC]]
 
 { .block-language-dataview}
 
