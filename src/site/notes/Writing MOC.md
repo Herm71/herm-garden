@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/writing-moc/","title":"Writing"}
 ---
 
-MOC: [[]]
+[[Dashboard\|Dashboard]]
 
 ## Index
 

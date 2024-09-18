@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/web-team-moc/","title":"Web Team"}
 ---
 
+[[Dashboard\|Dashboard]]
 ## Index
-
 - [[Team Notes\|Team Notes]]
 - [[wp-dev.ucsc notes\|wp-dev.ucsc notes]]
 - [[2024 Self Eval\|2024 Self Eval]]

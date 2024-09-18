@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/events-calendar-moc/","title":"Events Calendar","hide":true}
 ---
 
+[[Dashboard\|Dashboard]]
 MOC: [[Web Team MOC\|Web Team MOC]]
 
 # Index

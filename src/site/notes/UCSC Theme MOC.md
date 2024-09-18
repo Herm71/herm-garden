@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ucsc-theme-moc/","title":"UCSC Theme","hide":true,"tags":["WordPress"]}
 ---
 
-MOC: [[Web Team MOC\|Web Team MOC]]
+[[Dashboard\|Dashboard]] > [[Web Team MOC\|Web Team MOC]]
 
 ## Project Notes
 

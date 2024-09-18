@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/team-notes/","hide":true}
 ---
 
-MOC: [[Web Team MOC\|Web Team MOC]]
+[[Web Team MOC\|Web Team MOC]]
 
 ## 2024-09-18
 

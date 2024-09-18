@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/news-center-migration-moc/","hide":true,"tags":["WordPress"]}
 ---
 
-MOC: [[Web Team MOC\|Web Team MOC]]
+[[Dashboard\|Dashboard]] > MOC: [[Web Team MOC\|Web Team MOC]]
 
 ## Index
 
