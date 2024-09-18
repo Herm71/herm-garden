@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/tech-moc/","title":"Tech Stuff"}
 ---
 
-[[Dashboard\|Dashboard]]
+[[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
 ## Index
 
 - [[Home Tech\|Home Tech]]

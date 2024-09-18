@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/writing-moc/","title":"Writing"}
 ---
 
-[[Dashboard\|Dashboard]]
+[[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
 
 ## Index
 

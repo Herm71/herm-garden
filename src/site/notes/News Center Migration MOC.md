@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/news-center-migration-moc/","hide":true,"tags":["WordPress"]}
 ---
 
-[[Dashboard\|Dashboard]] > [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[Web Team MOC\|Web Team MOC]]
+[[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[Web Team MOC\|Web Team MOC]]
 
 ## Index
 

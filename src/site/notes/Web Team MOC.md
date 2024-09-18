@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/web-team-moc/","title":"Web Team"}
 ---
 
-[[Dashboard\|Dashboard]]
+[[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
 ## Index
 - [[Team Notes\|Team Notes]]
 - [[wp-dev.ucsc notes\|wp-dev.ucsc notes]]

@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/events-calendar-moc/","title":"Events Calendar","hide":true}
 ---
 
-[[Dashboard\|Dashboard]]
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[Web Team MOC\|Web Team MOC]]
 
 # Index

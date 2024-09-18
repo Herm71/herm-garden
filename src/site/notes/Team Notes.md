@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/team-notes/","hide":true}
 ---
 
-[[Web Team MOC\|Web Team MOC]]
+[[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[Web Team MOC\|Web Team MOC]]
 
 ## 2024-09-18
 
