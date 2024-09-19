@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ucsc-theme-moc/","title":"UCSC Theme","hide":true,"tags":["WordPress","work"],"created":"2024-08-19T19:12:54.728-07:00","updated":"2024-09-19T08:55:55.416-07:00"}
+{"dg-publish":true,"permalink":"/ucsc-theme-moc/","title":"UCSC Theme","hide":true,"tags":["WordPress","work"],"noteIcon":"","created":"2024-08-19T19:12:54.728-07:00","updated":"2024-09-19T08:55:55.416-07:00"}
 ---
 
 [[Dashboard\|Dashboard]] > [[Web Team MOC\|Web Team MOC]]

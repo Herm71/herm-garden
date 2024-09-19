@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/domain-inventory/","hide":true,"created":"2024-09-16T21:15:04.172-07:00","updated":"2024-09-18T09:47:00.033-07:00"}
+{"dg-publish":true,"permalink":"/domain-inventory/","hide":true,"noteIcon":"","created":"2024-09-16T21:15:04.172-07:00","updated":"2024-09-18T09:47:00.033-07:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[Tech MOC\|Tech MOC]]

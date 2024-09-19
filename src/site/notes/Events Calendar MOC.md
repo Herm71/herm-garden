@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/events-calendar-moc/","title":"Events Calendar","hide":true,"tags":["work"],"created":"2024-07-12T10:25:43.808-07:00","updated":"2024-09-19T08:56:42.888-07:00"}
+{"dg-publish":true,"permalink":"/events-calendar-moc/","title":"Events Calendar","hide":true,"tags":["work"],"noteIcon":"","created":"2024-07-12T10:25:43.808-07:00","updated":"2024-09-19T08:56:42.888-07:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[Web Team MOC\|Web Team MOC]]
