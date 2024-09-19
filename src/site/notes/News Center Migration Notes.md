@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/news-center-migration-notes/","hide":true,"tags":["WordPress","project"],"created":"2024-08-19T18:57:16.280-07:00","updated":"2024-09-18T09:35:11.706-07:00"}
+{"dg-publish":true,"permalink":"/news-center-migration-notes/","hide":true,"tags":["WordPress","work"],"created":"2024-08-19T18:57:16.280-07:00","updated":"2024-09-19T08:59:21.433-07:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[News Center Migration MOC\|News Center Migration MOC]]
@@ -36,4 +36,4 @@ In the end, Lisa says "check with Scott."
 - [x] Recreate `Local Dev` in Pantheon `Multidev` ➕ 2024-08-20 📅 2024-08-20 ✅ 2024-08-21
 
 # Project Milestone
-- [ ] Demo for News📅 2024-09-09
+- [ ] Demo News Site 📅 2024-12-09

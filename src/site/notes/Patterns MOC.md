@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/patterns-moc/","hide":true,"tags":["WordPress"],"created":"2024-06-24T15:18:14.365-07:00","updated":"2024-09-18T09:35:11.706-07:00"}
+{"dg-publish":true,"permalink":"/patterns-moc/","hide":true,"tags":["WordPress","work"],"created":"2024-06-24T15:18:14.365-07:00","updated":"2024-09-19T09:01:50.692-07:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[Web Team MOC\|Web Team MOC]]
 ## Project Notes
-- [[WordPress Patterns Monday\|WordPress Patterns Monday]]
+- [[WordPress Patterns General Notes\|WordPress Patterns General Notes]]
 
 { .block-language-dataview}
 
 ## To do:
-- [ ] Change muircat image to a stock ucsc image 📅 2024-08-20
+- [ ] Change muircat image to a stock ucsc image 📅 2024-09-26
 
 { .block-language-dataview}
