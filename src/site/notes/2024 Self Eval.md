@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2024-self-eval/","hide":true}
+{"dg-publish":true,"permalink":"/2024-self-eval/","hide":true,"created":"2024-08-27T16:10:41.213-07:00","updated":"2024-09-18T09:31:59.260-07:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[Web Team MOC\|Web Team MOC]]

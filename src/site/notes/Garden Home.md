@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden-home/","title":"Jason Chafin's Digital Garden","hide":true,"tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/garden-home/","title":"Jason Chafin's Digital Garden","hide":true,"tags":["gardenEntry"],"created":"2024-09-16T13:57:29.695-07:00","updated":"2024-09-18T09:53:35.634-07:00"}
 ---
 
 

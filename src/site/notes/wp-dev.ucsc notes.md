@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wp-dev-ucsc-notes/","hide":true}
+{"dg-publish":true,"permalink":"/wp-dev-ucsc-notes/","hide":true,"created":"2024-09-05T10:03:07.009-07:00","updated":"2024-09-18T09:35:11.698-07:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[Web Team MOC\|Web Team MOC]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/web-team-moc/","title":"Web Team"}
+{"dg-publish":true,"permalink":"/web-team-moc/","title":"Web Team","created":"2024-08-19T10:30:31.715-07:00","updated":"2024-09-18T09:39:11.008-07:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
@@ -21,12 +21,15 @@
 
 ## To do
 
+- [ ] Update [Truss](https://github.com/ucsc/truss) to v.0.8.2 in Events Calendar 📅 2024-09-18
+- [ ] Update [Truss](https://github.com/ucsc/truss) to v.0.8.2 in Events Calendar Docs 📅 2024-09-18
 - [ ] GTM [Button click tracking](https://usefathom.com/learn/track-button-clicks-google-analytics) (for Adam)
 
 { .block-language-dataview}
 
 ## Completed Tasks
 
+- [x] Update Giving Site [Chancellor's Associates Page](https://giving.ucsc.edu/ways-to-give/chancellors-associates/) 📅 2024-09-18 ✅ 2024-09-18
 - [x] Add `@ucschumanities` Instagram account to Social Media Directory📅 2024-08-23 ✅ 2024-08-23
 - [x] make issue for [mark buds page](https://academicpersonnel.wordpress.ucsc.edu/) ✅ 2024-08-06
 - [x] Campus VPN->Directory Block ✅ 2024-08-21
