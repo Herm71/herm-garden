@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gb-proposal/","hide":true,"tags":["WordPress","work"],"noteIcon":"3","created":"2024-06-19T12:20:56.795-07:00","updated":"2024-09-19T12:40:18.413-07:00"}
+{"dg-publish":true,"permalink":"/gb-proposal/","hide":true,"tags":["WordPress","work"],"noteIcon":"1","created":"2024-06-19T12:20:56.795-07:00","updated":"2024-09-19T12:49:16.344-07:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] >  [[Plugins MOC\|Plugins MOC]] > [[Gutenberg Blocks MOC\|Gutenberg Blocks MOC]]

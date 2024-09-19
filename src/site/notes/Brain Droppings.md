@@ -20,9 +20,6 @@ https://app.netlify.com/start/deploy?repository=https://github.com/oleeskild/dig
 ### Due Today
 - [ ] [Mark Budz issue](https://github.com/ucsc/ucsc-2022/issues/348): Try playing around with DOM elements in code-pen. See if possibled to pull one element on top of another with no whitespace beneath it.🔼
 - [x] Titles, overflow hidden, max-height. [Example](https://calendar.ucsc.edu/event/materials-and-devices-for-brain-inspired-computing-a-future-of-semiconductor-workshop) ✅ 2024-08-19
-- [x] [Gutenberg Blocks Plugin](https://github.com/ucsc/ucsc-gutenberg-blocks) - fix merge conflict in PR ✅ 2024-06-21
-- [ ] Gutenberg - remove "settings" from menu label
-- [x] Write [[GB Proposal\|GB Proposal]] for management of repo going forward ✅ 2024-06-21
 - [x] make issue for [mark buds page](https://academicpersonnel.wordpress.ucsc.edu/) ✅ 2024-08-06
 - [ ] GTM [Button click tracking](https://usefathom.com/learn/track-button-clicks-google-analytics) (for Adam)
 - [x] Campus VPN->Directory Block ✅ 2024-08-21
@@ -39,5 +36,8 @@ https://app.netlify.com/start/deploy?repository=https://github.com/oleeskild/dig
 - [x] Obsidian! I'm using Obsidian, trying things out, learning the UI ✅ 2024-06-18
 - [x] Pull Requests, [Theme](https://github.com/ucsc/ucsc-2022/pull/342) and [Plugin](https://github.com/ucsc/ucsc-custom-functionality/pull/25) ✅ 2024-06-18
 - [x] [Quarry Website](https://quarry.ucsc.edu/) ✅ 2024-06-18
+- [x] [Gutenberg Blocks Plugin](https://github.com/ucsc/ucsc-gutenberg-blocks) - fix merge conflict in PR ✅ 2024-06-21
+- [ ] Gutenberg - remove "settings" from menu label
+- [x] Write [[GB Proposal\|GB Proposal]] for management of repo going forward ✅ 2024-06-21
 
 { .block-language-dataview}
