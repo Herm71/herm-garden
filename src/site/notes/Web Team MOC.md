@@ -21,7 +21,6 @@
 
 ## To do
 
-- [ ] Email Brandon Hinks about Foundation site redirect 📅 2024-09-19
 - [ ] **Events Calendar:** add new group 'Sesnon Galleries' 📅 2024-09-19
 - [ ] GTM [Button click tracking](https://usefathom.com/learn/track-button-clicks-google-analytics) (for Adam)
 
@@ -29,6 +28,7 @@
 
 ## Completed Tasks
 
+- [x] Email Brandon Hinks about Foundation site redirect 📅 2024-09-19 ✅ 2024-09-19
 - [x] Update [Truss](https://github.com/ucsc/truss) to v.0.8.2 in Events Calendar 📅 2024-09-18 ✅ 2024-09-19 > [!note] > **Truss** is enqueued as `@latest` on Events Calendar and Events Calendar Docs sites >They both updated by themselves.
 - [x] Update Giving Site [Chancellor's Associates Page](https://giving.ucsc.edu/ways-to-give/chancellors-associates/) 📅 2024-09-18 ✅ 2024-09-18
 - [x] Add `@ucschumanities` Instagram account to Social Media Directory📅 2024-08-23 ✅ 2024-08-23
