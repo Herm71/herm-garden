@@ -6,7 +6,6 @@
 
 ## Index
 
-- [[Brain Droppings\|Brain Droppings]]
 
 { .block-language-dataview}
 

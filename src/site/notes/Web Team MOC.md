@@ -21,6 +21,7 @@
 
 ## To do
 
+- [ ] Email Brandon Hinks about Foundation site redirect 📅 2024-09-19
 - [ ] Update [Truss](https://github.com/ucsc/truss) to v.0.8.2 in Events Calendar 📅 2024-09-18
 - [ ] Update [Truss](https://github.com/ucsc/truss) to v.0.8.2 in Events Calendar Docs 📅 2024-09-18
 - [ ] GTM [Button click tracking](https://usefathom.com/learn/track-button-clicks-google-analytics) (for Adam)
