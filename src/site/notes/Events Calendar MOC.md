@@ -5,9 +5,9 @@
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[Web Team MOC\|Web Team MOC]]
 
 # Index
-- [[Convert Events Calendar Docs\|Convert Events Calendar Docs]]
 - [[Update communication\|Update communication]]
 - [[Events Calendar Notes\|Events Calendar Notes]]
+- [[Convert Events Calendar Docs\|Convert Events Calendar Docs]]
 
 { .block-language-dataview}
 
