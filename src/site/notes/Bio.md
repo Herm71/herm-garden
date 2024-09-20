@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bio/","hide":true,"tags":["home","draft"],"noteIcon":"1","created":"2024-09-19T13:22:46.685-07:00","updated":"2024-09-19T17:50:58.755-07:00"}
+{"dg-publish":true,"permalink":"/bio/","hide":true,"tags":["home","draft"],"noteIcon":"1","created":"2024-09-19T13:22:46.685-07:00","updated":"2024-09-19T17:54:50.485-07:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[Drafts\|Drafts]]
@@ -12,7 +12,7 @@ In 2003, I was hired by [Lamphier-Gregory](https://lamphier-gregory.com/), an en
 
 I was laid off by Lamphier-Gregory in 2010 as a result of [The Great Recession](https://www.federalreservehistory.org/essays/great-recession-and-its-aftermath). While searching for work "in my field," I began learning the basics of web development by tinkering with [WordPress](https://wordpress.org/). I'd always had an aptitude for things technical and I was already a hobbyist at building computers and other bits of hardware; so moving into web development was a logical next step.
 
-Initially, as with many of the skills and knowledge I've acquired in life, I was self taught. But eventually I found that there were many "[unknown unknowns](https://en.wikipedia.org/wiki/There_are_unknown_unknowns)" in web development, particularly with WordPress, that I couldn't answer myself -- I didn't even know the right questions to ask! 
+Initially, as with many of the skills and knowledge I've acquired in life, I was self taught. But I eventually found that there were many "[unknown unknowns](https://en.wikipedia.org/wiki/There_are_unknown_unknowns)" in web development, particularly with WordPress, that I couldn't answer myself -- I didn't even know the right questions to ask! 
 
 I learned many of those right questions, and the answers to them, by attending weekly [Meetups](https://www.meetup.com/) at a great local Oakland resource called [Tech Liminal](https://techliminal.com/). In 2011, knowing just enough about WordPress to be dangerous, I officially took my first steps along the path of my **second career** and became a "web developer." 
 
