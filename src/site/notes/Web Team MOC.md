@@ -4,6 +4,7 @@
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
 ## Index
+- [[Templates/Core/New Note\|New Note]]
 - [[Team Notes\|Team Notes]]
 - [[wp-dev.ucsc notes\|wp-dev.ucsc notes]]
 - [[2024 Self Eval\|2024 Self Eval]]
@@ -22,6 +23,7 @@
 ## To do
 
 - [ ] GTM [Button click tracking](https://usefathom.com/learn/track-button-clicks-google-analytics) (for Adam)
+- [ ] Todos go here
 
 { .block-language-dataview}
 

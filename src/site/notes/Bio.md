@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bio/","hide":true,"tags":["home","draft"],"noteIcon":"1","created":"2024-09-19T13:22:46.685-07:00","updated":"2024-09-19T18:26:15.465-07:00"}
+{"dg-publish":true,"permalink":"/bio/","hide":true,"tags":["home","draft"],"noteIcon":"1","created":"2024-09-19T13:22:46.685-07:00","updated":"2024-09-20T08:18:55.022-07:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[Writing MOC\|Writing MOC]]
@@ -16,7 +16,7 @@ Initially, as with many of the skills and knowledge I've acquired in life, I was
 
 I learned many of those right questions, and the answers to them, by attending weekly [Meetups](https://www.meetup.com/) at a great local Oakland resource called [Tech Liminal](https://techliminal.com/). In 2011, knowing just enough about WordPress to be dangerous, I officially took my first steps along the path of my **second career** and became a "web developer." 
 
-I freelanced for a couple of years, improving my skills. I had acquired a few clients, developed a portfolio and continued attending weekly Meetups at Tech Liminal. It was from those weekly Meetups that I learned of an open position at Oakland WordPress web development firm [Hyperarts](https://www.hyperarts.com/). I interviewed with them and was hired as a contract web developer at the end of 2012. I worked as a contractor for Hyperarts while continuing my freelance work until 2017. 
+I freelanced for a couple of years, improving my skills. I acquired a few clients, developed a portfolio and continued attending weekly Meetups at Tech Liminal. It was from those weekly Meetups that I learned of an open position at Oakland WordPress web development firm [Hyperarts](https://www.hyperarts.com/). I interviewed with them and was hired as a contract web developer at the end of 2012. I worked as a contractor for Hyperarts while continuing my freelance work until 2017. 
 
 In the Spring of 2017, an employment agency found a resume I'd uploaded to an online job board some three years earlier. Soon after, they contacted me and asked if I was interested in a six-month position at UC Santa Cruz, my *alma mater*. The person whose place I would fill was on medical leave. 
 
