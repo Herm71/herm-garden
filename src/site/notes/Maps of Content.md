@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps-of-content/","title":"Maps of Content","hide":true,"tags":["obsidian","draft","project-management","tech"],"noteIcon":"1","created":"2024-09-20T11:07:09.292-07:00","updated":"2024-09-20T15:09:35.112-07:00"}
+{"dg-publish":true,"permalink":"/maps-of-content/","title":"Maps of Content","hide":true,"tags":["obsidian","draft","project-management","tech"],"noteIcon":"1","created":"2024-09-20T11:07:09.292-07:00","updated":"2024-09-20T15:15:50.266-07:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[Tech MOC\|Tech MOC]] | [[Writing MOC\|Writing MOC]]
@@ -60,7 +60,7 @@ In our parent MOC (`project-a.md`), add a code block and make a *Dataview* query
 
 ![project-a-moc.png|Project A MOC](/img/user/attachments/project-a-moc.png)
 
-This is the map of all notes related to `project-a`. Any topic can be organized in this manner. Create MOCs for whatever  you want and link child notes accordingly. 
+Any topic can be organized in this manner. Create MOCs for whatever you want and link child notes accordingly. 
 ### MOCs of MOCs
 Obsidian offers a **Homepage** plugin that allows a user to use any note as a home page or dashboard. It can be set to open automatically once you launch Obsidian, giving you an overview of your notes. 
 
