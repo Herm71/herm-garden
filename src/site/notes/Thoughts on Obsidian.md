@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts-on-obsidian/","title":"Thoughts on Obsidian","tags":["draft","obsidian","project-management"],"noteIcon":"1","created":"2024-09-19T18:40:27.571-07:00","updated":"2024-09-19T20:58:53.814-07:00"}
+{"dg-publish":true,"permalink":"/thoughts-on-obsidian/","title":"Thoughts on Obsidian","tags":["draft","obsidian","project-management"],"noteIcon":"1","created":"2024-09-19T18:40:27.571-07:00","updated":"2024-09-19T21:10:25.835-07:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[Writing MOC\|Writing MOC]]
@@ -12,10 +12,8 @@ Recently, a work colleague suggested that I try [Obsidian](https://obsidian.md/)
 
 I've been using/exploring/learning Obsidian for three or four months. **TLDR:** This thing is awesome. 
 
->[!warning] Alert
-> Obsidian is awesome!
-
-As a developer, I am a [Markdown](https://www.markdownguide.org/) enthusiast. I've developed several static sites using [Jekyll](https://jekyllrb.com/) and [Eleventy](https://www.11ty.dev/) so I'm comfortable using front matter. Obsidian combines the ease of writing Markdown with the power of front matter (and inline) tags and properties (along with a robust plugin community) to create a seriously powerful project and task management tool. 
+>[!note]
+> As a developer, I am a [Markdown](https://www.markdownguide.org/) enthusiast. I've developed several static sites using [Jekyll](https://jekyllrb.com/) and [Eleventy](https://www.11ty.dev/) so I'm comfortable using front matter. Obsidian combines the ease of writing Markdown with the power of front matter (and inline) tags and properties (along with a robust plugin community) to create a seriously powerful project and task management tool
 
 There are a Zillion posts on the internet describing methodologies for "getting things done" using Obsidian: [ways to organize your files](https://forum.obsidian.md/t/how-do-i-structure-notes-effectively-in-obsidian/49734) (using folders? flat?), ways to [tag your notes](https://forum.obsidian.md/t/a-guide-on-links-vs-tags-in-obsidian/28231), ways to [query notes](https://blacksmithgu.github.io/obsidian-dataview/), [task management](https://publish.obsidian.md/tasks/Introduction), etc. 
 
