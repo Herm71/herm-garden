@@ -6,6 +6,7 @@
 
 ## Index
 
+- [[Maps of Content\|Maps of Content]]
 - [[Thoughts on Obsidian\|Thoughts on Obsidian]]
 - [[Bio\|Bio]]
 

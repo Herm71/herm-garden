@@ -5,6 +5,7 @@
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
 ## Index
 
+- [[Maps of Content\|Maps of Content]]
 - [[Home Tech\|Home Tech]]
 - [[Domain Inventory\|Domain Inventory]]
 
