@@ -6,6 +6,7 @@
 
 ## Index
 
+- [[Bio\|Bio]]
 
 { .block-language-dataview}
 
