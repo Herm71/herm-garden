@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bio/","hide":true,"tags":["home","draft"],"noteIcon":"1","created":"2024-09-19T13:22:46.685-07:00","updated":"2024-09-19T17:31:42.320-07:00"}
+{"dg-publish":true,"permalink":"/bio/","tags":["home","draft"],"noteIcon":"1","created":"2024-09-19T13:22:46.685-07:00","updated":"2024-09-19T17:33:50.261-07:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[Drafts\|Drafts]]
