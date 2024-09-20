@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/brain-droppings/","noteIcon":"3","created":"2024-08-19T18:43:29.139-07:00","updated":"2024-09-19T13:10:48.457-07:00"}
+{"dg-publish":true,"permalink":"/brain-droppings/","hide":true,"noteIcon":"3","created":"2024-08-19T18:43:29.139-07:00","updated":"2024-09-20T08:00:04.669-07:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[Drafts\|Drafts]]
