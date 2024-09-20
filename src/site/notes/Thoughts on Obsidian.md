@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts-on-obsidian/","title":"Thoughts on Obsidian","tags":["draft","obsidian","project-management"],"noteIcon":"1","created":"2024-09-19T18:40:27.571-07:00","updated":"2024-09-19T20:19:26.928-07:00"}
+{"dg-publish":true,"permalink":"/thoughts-on-obsidian/","title":"Thoughts on Obsidian","tags":["draft","obsidian","project-management"],"noteIcon":"1","created":"2024-09-19T18:40:27.571-07:00","updated":"2024-09-19T20:20:14.530-07:00"}
 ---
 
-[[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] >MOC: [[Drafts\|Drafts]]
+[[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[Drafts\|Drafts]]
 
 I've loved organization and project management systems since I was a kid. In high school, I had a [Franklin Quest](https://en.wikipedia.org/wiki/FranklinCovey) personal organizer (amazingly, [they still exist](https://store.franklinplanner.com/)!). In the 90s, I had several versions of the [PalmPilot](https://en.wikipedia.org/wiki/PalmPilot). In the early aughts, I discovered Paul Allen's [Getting Things Done](https://en.wikipedia.org/wiki/Getting_Things_Done) (GTD) system and devoted both my professional and personal life to it. 
 
