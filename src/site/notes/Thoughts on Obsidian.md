@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts-on-obsidian/","title":"Thoughts on Obsidian","tags":["draft","obsidian","project-management"],"noteIcon":"1","created":"2024-09-19T18:40:27.571-07:00","updated":"2024-09-20T11:56:47.345-07:00"}
+{"dg-publish":true,"permalink":"/thoughts-on-obsidian/","title":"Thoughts on Obsidian","tags":["draft","obsidian","project-management"],"noteIcon":"1","created":"2024-09-19T18:40:27.571-07:00","updated":"2024-09-20T15:18:23.209-07:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[Writing MOC\|Writing MOC]]
@@ -8,7 +8,8 @@
 > As a web developer, I am a [Markdown](https://www.markdownguide.org/) enthusiast. I've developed several static sites using [Jekyll](https://jekyllrb.com/) and [Eleventy](https://www.11ty.dev/) and am comfortable using frontmatter. Obsidian combines the ease of writing Markdown with the power of frontmatter (and inline) tags and properties. Add to that  a robust plugin community you've got a seriously powerful project and task management tool
 > 
 
-I've loved organization and project management systems since I was a kid. In high school, I had a [Franklin Quest](https://en.wikipedia.org/wiki/FranklinCovey) personal organizer (amazingly, [they still exist](https://store.franklinplanner.com/)!). In the 90s, I had several versions of the [PalmPilot](https://en.wikipedia.org/wiki/PalmPilot). In the early aughts, I discovered Paul Allen's [Getting Things Done](https://en.wikipedia.org/wiki/Getting_Things_Done) (GTD) system and devoted both my professional and personal life to it. 
+I've loved organization and project management systems since I was a kid. In high school, I had a [Franklin Quest](https://en.wikipedia.org/wiki/FranklinCovey) personal organizer (amazingly, [they still exist](https://store.franklinplanner.com/)!). In the 90s, I had several versions of the [PalmPilot](https://en.wikipedia.org/wiki/PalmPilot). In the early aughts, I discovered Paul Allen's [Getting Things Done](https://en.wikipedia.org/wiki/Getting_Things_Done) (GTD) system and devoted both my professional and personal life to it.
+
 These days, I'm a web developer at a a [major research university](https://www.ucsc.edu/). In recent years, I've used [Trello](https://trello.com), [Airtable](https://www.airtable.com/), [Notion](https://www.notion.so/) and [Asana](https://www.notion.so/) to manage projects and keep track of tasks. 
 
 Recently, a work colleague suggested that I try [Obsidian](https://obsidian.md/). He recommended it to me on a Friday with a warning, "this will take over your entire weekend." He wasn't wrong! 
