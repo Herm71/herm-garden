@@ -4,7 +4,6 @@
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
 ## Index
-- [[Templates/Core/New Note\|New Note]]
 - [[Team Notes\|Team Notes]]
 - [[wp-dev.ucsc notes\|wp-dev.ucsc notes]]
 - [[2024 Self Eval\|2024 Self Eval]]
@@ -23,13 +22,12 @@
 ## To do
 
 - [ ] GTM [Button click tracking](https://usefathom.com/learn/track-button-clicks-google-analytics) (for Adam)
-- [ ] Todos go here
 
 { .block-language-dataview}
 
 ## Completed Tasks
 
-- [x] Email Brandon Hinks about Foundation site redirect 📅 2024-09-19 ✅ 2024-09-19
+- [x] Email Brandon Hinks about Foundation site redirect 📅 2024-09-19 ✅ 2024-09-20
 - [x] **Events Calendar:** add new group 'Sesnon Galleries' 📅 2024-09-19 ✅ 2024-09-19
 - [x] Update [Truss](https://github.com/ucsc/truss) to v.0.8.2 in Events Calendar 📅 2024-09-18 ✅ 2024-09-19 > [!note] > **Truss** is enqueued as `@latest` on Events Calendar and Events Calendar Docs sites >They both updated by themselves.
 - [x] Update Giving Site [Chancellor's Associates Page](https://giving.ucsc.edu/ways-to-give/chancellors-associates/) 📅 2024-09-18 ✅ 2024-09-18
