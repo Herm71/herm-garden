@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps-of-content/","title":"Maps of Content","hide":true,"tags":["obsidian","draft"],"noteIcon":"","created":"2024-09-20T11:07:09.292-07:00","updated":"2024-09-20T14:29:13.403-07:00"}
+{"dg-publish":true,"permalink":"/maps-of-content/","title":"Maps of Content","hide":true,"tags":["obsidian","draft","project-management","tech"],"noteIcon":"1","created":"2024-09-20T11:07:09.292-07:00","updated":"2024-09-20T15:09:35.112-07:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[Tech MOC\|Tech MOC]] | [[Writing MOC\|Writing MOC]]
@@ -8,7 +8,7 @@
 >- [Dataview](https://github.com/blacksmithgu/obsidian-dataview)
 >- [Homepage](https://github.com/mirnovov/obsidian-homepage)
 
-I'm intrigued by the concept of [digital gardening]( https://maggieappleton.com/garden-history), looking at your notes as a "collection of loosely organized notes that you allow to grow over time." One methodology for tending to one's "digital garden" in Obsidian is using [Maps of Content](https://obsidian.rocks/maps-of-content-effortless-organization-for-notes/), which allow a "gardener" to structure their notes organically over time.
+I'm intrigued by the concept of [digital gardening]( https://maggieappleton.com/garden-history), looking at your notes as a *collection of loosely organized notes that you allow to grow over time*. One methodology for tending to one's "digital garden" in Obsidian is using [Maps of Content](https://obsidian.rocks/maps-of-content-effortless-organization-for-notes/), which allow a "gardener" to structure their notes organically over time.
 
 In this methodology, one's note structure is flat, which is to say, they are not organized in folders or through a heavy use of tags. 
 
@@ -39,21 +39,20 @@ So, create a new child note related to your project (`deployment-issues.md` - na
 Some thoughts on deployment issues
 ```
 
-You can create as many notes as you like related to `project-a` and keep them together by backbacklinking to their parent MOC.
-
+You can create as many notes as you like related to `project-a` and keep them together by backlinking to their parent MOC. In fact, a single note can have many "parents," linking to more than one MOC. This solves the binary folder issue; a note can't be in two folders at the same time but it *can* be in two (or more) MOCs at the same time.
 #### Viewing the Map
 This is where the **Dataview** plugin comes into play. 
 
 >[!note]
->Dataview is an incredibly powerful plugin that turns your static Markdown notes into a database that you can make SQL-like queries against.
+>**Dataview** is an incredibly powerful plugin that turns your static Markdown notes into a database that you can make SQL-like queries against.
 
 In our parent MOC (`project-a.md`), add a code block and make a *Dataview* query that lists *all notes* associated with the project. 
 
-```
-	- [[Thoughts on Obsidian.md|Thoughts on Obsidian]]
+````
+- [[Thoughts on Obsidian.md|Thoughts on Obsidian]]
 
 { .block-language-dataview}
-```
+````
 
  Might look something like this: 
 
