@@ -6,6 +6,7 @@
 
 ## Index
 
+- [[Thoughts on Obsidian\|Thoughts on Obsidian]]
 - [[Bio\|Bio]]
 
 { .block-language-dataview}
