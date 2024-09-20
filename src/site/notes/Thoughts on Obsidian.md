@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts-on-obsidian/","title":"Thoughts on Obsidian","tags":["draft","obsidian","project-management"],"noteIcon":"1","created":"2024-09-19T18:40:27.571-07:00","updated":"2024-09-19T20:20:14.530-07:00"}
+{"dg-publish":true,"permalink":"/thoughts-on-obsidian/","title":"Thoughts on Obsidian","tags":["draft","obsidian","project-management"],"noteIcon":"1","created":"2024-09-19T18:40:27.571-07:00","updated":"2024-09-19T20:35:10.932-07:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[Drafts\|Drafts]]
@@ -14,9 +14,11 @@ I've been using/exploring/learning Obsidian for three or four months. TLDR: This
 >[!tip]
 > Obsidian is awesome!
 
-As a developer, I am a [Markdown](https://www.markdownguide.org/) enthusiast. I've developed several static sites using [Jekyll](https://jekyllrb.com/) and [Eleventy](https://www.11ty.dev/) so I'm comfortable using front matter. Obsidian combines the ease of writing that comes with Markdown with the power of tags and properties in the front matter (as well as inline), along with a robust plugin community, to create a seriously powerful organizational tool. 
+As a developer, I am a [Markdown](https://www.markdownguide.org/) enthusiast. I've developed several static sites using [Jekyll](https://jekyllrb.com/) and [Eleventy](https://www.11ty.dev/) so I'm comfortable using front matter. Obsidian combines the ease of writing that comes with Markdown with the power of front matter tags and properties (as well as inline), along with a robust plugin community, to create a seriously powerful organizational tool. 
 
-There are a Zillion posts on the internet describing methodologies for "getting things done" using Obsidian: ways to organize your file structure, ways to tag your notes, ways to query notes based on tags, task management, etc. Here are some methodologies I'm exploring as I fine-tune my Vault:
+There are a Zillion posts on the internet describing methodologies for "getting things done" using Obsidian: ways to organize your files (using folders? flat?), ways to tag your notes, ways to query notes based on tags, task management, etc. 
+
+Here are some methodologies I'm exploring as I fine-tune my Vault:
 
 - **Flat file structure:** I'm currently working with a flat file structure, employing the [Maps of Content](https://obsidian.rocks/maps-of-content-effortless-organization-for-notes/) concept, which relies on backlinks to files to keep your vault in order
 - **Git plugin:** I created a private Git repo for my vault. The Obsidian [Git plugin](https://publish.obsidian.md/git-doc/Start+here) allows automatic syncing of my local vault with my private repo
