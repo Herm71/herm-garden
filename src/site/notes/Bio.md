@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bio/","hide":true,"tags":["home","draft"],"noteIcon":"1","created":"2024-09-19T13:22:46.685-07:00","updated":"2024-09-20T08:18:55.022-07:00"}
+{"dg-publish":true,"permalink":"/bio/","hide":true,"tags":["home","draft"],"noteIcon":"1","created":"2024-09-19T13:22:46.685-07:00","updated":"2024-09-20T15:40:47.621-07:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[Writing MOC\|Writing MOC]]
 
-I was raised in Southern California's [Inland Empire](https://en.wikipedia.org/wiki/Inland_Empire) city of [San Bernardino](https://www.sbcity.org/). After graduating high school in 1989, I moved north to attend college at the [University of California, Santa Cruz](https://ucsc.edu) where I earned a Bachelor's Degree in [Environmental Studies](https://envs.ucsc.edu/) in 1993. After living in [Sacramento](https://www.cityofsacramento.gov/), CA for a couple of years after college, I headed north again in 1995 to [Olympia](https://www.olympiawa.gov/), WA to pursue a [Master of Environmental Studies](https://www.evergreen.edu/academics/graduate-studies/master-environmental-studies) at [The Evergreen State College](https://www.evergreen.edu/).
+I was raised in Southern California's [Inland Empire](https://en.wikipedia.org/wiki/Inland_Empire) city of [San Bernardino](https://www.sbcity.org/). After graduating high school in 1989, I moved north to attend college at the [University of California, Santa Cruz](https://ucsc.edu) where I earned a Bachelor's Degree in [Environmental Studies](https://envs.ucsc.edu/), graduating in 1993. After living in [Sacramento](https://www.cityofsacramento.gov/), CA for a couple of years after college, I headed north again in 1995 to [Olympia](https://www.olympiawa.gov/), WA to pursue a [Master of Environmental Studies](https://www.evergreen.edu/academics/graduate-studies/master-environmental-studies) at [The Evergreen State College](https://www.evergreen.edu/).
 
 After graduating from Evergreen in 1998, I returned to [Santa Cruz](https://www.cityofsantacruz.com/) and began my ***first career*** as an Urban and Environmental Planner with the now-defunct [Pacific Municipal Consultants](https://pitchbook.com/profiles/company/108326-44#overview) in their [Monterey](https://monterey.gov/) office. I spent five years with PMC, consulting on planning projects up and down California's Central Coast -- from [San Luis Obispo](https://www.slocity.org/) to Santa Cruz.
 
