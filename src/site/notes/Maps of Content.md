@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps-of-content/","title":"Maps of Content","tags":["obsidian","project-management"],"noteIcon":"1","created":"2024-09-20T11:07:09.292-07:00","updated":"2024-09-21T16:42:25.869-07:00"}
+{"dg-publish":true,"permalink":"/maps-of-content/","title":"Maps of Content","tags":["obsidian","project-management"],"noteIcon":"1","created":"2024-09-20T11:07:09.292-07:00","updated":"2024-09-21T16:50:01.295-07:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[Tech MOC\|Tech MOC]] | [[Writing MOC\|Writing MOC]]
@@ -8,7 +8,7 @@
 >- [Dataview](https://github.com/blacksmithgu/obsidian-dataview)
 >- [Homepage](https://github.com/mirnovov/obsidian-homepage)
 
-I'm intrigued by the concept of [digital gardening]( https://maggieappleton.com/garden-history), looking at your notes as a *collection of loosely organized notes that you allow to grow over time*. One methodology for tending to one's "digital garden" in Obsidian is using [Maps of Content](https://obsidian.rocks/maps-of-content-effortless-organization-for-notes/), which allow a "gardener" to structure their notes organically over time.
+I'm intrigued by the concept of [digital gardening]( https://maggieappleton.com/garden-history), looking at your content as a *collection of loosely organized notes that you allow to grow over time*. One methodology for tending to one's "digital garden" in Obsidian is using [Maps of Content](https://obsidian.rocks/maps-of-content-effortless-organization-for-notes/), which allow a "gardener" to structure their notes organically over time.
 
 In this methodology, one's note structure is flat, which is to say, they are not organized in folders or through a heavy use of tags. 
 
