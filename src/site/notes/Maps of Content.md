@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps-of-content/","title":"Maps of Content","hide":true,"tags":["obsidian","project-management"],"noteIcon":"1","created":"2024-09-20T11:07:09.292-07:00","updated":"2024-09-21T07:18:51.151-07:00"}
+{"dg-publish":true,"permalink":"/maps-of-content/","title":"Maps of Content","tags":["obsidian","project-management"],"noteIcon":"1","created":"2024-09-20T11:07:09.292-07:00","updated":"2024-09-21T16:42:25.869-07:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[Tech MOC\|Tech MOC]] | [[Writing MOC\|Writing MOC]]
