@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts-on-obsidian/","title":"Thoughts on Obsidian","tags":["draft","obsidian","project-management"],"noteIcon":"1","created":"2024-09-19T18:40:27.571-07:00","updated":"2024-09-21T16:44:01.585-07:00"}
+{"dg-publish":true,"permalink":"/thoughts-on-obsidian/","title":"Thoughts on Obsidian","tags":["draft","obsidian","project-management"],"noteIcon":"1","created":"2024-09-19T18:40:27.571-07:00","updated":"2024-09-21T16:46:50.084-07:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[Writing MOC\|Writing MOC]]
@@ -23,7 +23,7 @@ Recently, a work colleague suggested that I try [Obsidian](https://obsidian.md/)
 
 There are a Zillion posts on the internet describing methodologies for "getting things done" using Obsidian: [ways to organize your files](https://forum.obsidian.md/t/how-do-i-structure-notes-effectively-in-obsidian/49734) (using folders? flat?), ways to [tag your notes](https://forum.obsidian.md/t/a-guide-on-links-vs-tags-in-obsidian/28231), ways to [query notes](https://blacksmithgu.github.io/obsidian-dataview/), [task management](https://publish.obsidian.md/tasks/Introduction), etc. While I haven't explored them all, I've read enough to start formulating my own workflow.
 
-As I've been using/exploring/learning Obsidian for three or four months, here are some methodologies I'm exploring, including associated plugins:
+Here are some methodologies I'm exploring, including associated plugins, as I discover what Obsidian can do:
 
 - **Flat file structure:** I'm currently working with a flat file structure, employing the [[Maps of Content\|Maps of Content]] concept, which relies on backlinks to files to keep your vault in order
 - **Git plugin:** I created a private Git repo for my vault. The Obsidian [Git plugin](https://publish.obsidian.md/git-doc/Start+here) allows automatic syncing of my local vault with my private repo
