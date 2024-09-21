@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/maps-of-content/","title":"Maps of Content","hide":true,"tags":["obsidian","draft","project-management","tech"],"noteIcon":"1","created":"2024-09-20T11:07:09.292-07:00","updated":"2024-09-20T15:15:50.266-07:00"}
+{"dg-publish":true,"permalink":"/maps-of-content/","title":"Maps of Content","hide":true,"tags":["obsidian","project-management"],"noteIcon":"1","created":"2024-09-20T11:07:09.292-07:00","updated":"2024-09-21T07:18:51.151-07:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[Tech MOC\|Tech MOC]] | [[Writing MOC\|Writing MOC]]
 
->[!note] Suggested Obsidian Plugins
+>[!note] Obsidian plugins discussed
 >- [Dataview](https://github.com/blacksmithgu/obsidian-dataview)
 >- [Homepage](https://github.com/mirnovov/obsidian-homepage)
 
