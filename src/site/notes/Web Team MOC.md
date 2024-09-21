@@ -4,7 +4,7 @@
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
 ## Index
-- [[kanban-test/Untitled Kanban\|Untitled Kanban]]
+- [[Radar\|Radar]]
 - [[Team Notes\|Team Notes]]
 - [[wp-dev.ucsc notes\|wp-dev.ucsc notes]]
 - [[2024 Self Eval\|2024 Self Eval]]
@@ -23,7 +23,8 @@
 ## To do
 
 - [ ] GTM [Button click tracking](https://usefathom.com/learn/track-button-clicks-google-analytics) (for Adam)
-- [ ] [[Sample Card\|Sample Card]]
+- [ ] [[Rob's Google Oauth\|Rob's Google Oauth]]
+- [ ] 60th logo on campus headers
 
 { .block-language-dataview}
 
