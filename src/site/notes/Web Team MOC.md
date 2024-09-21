@@ -4,6 +4,7 @@
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
 ## Index
+- [[UCSC Portfolio\|UCSC Portfolio]]
 - [[Radar\|Radar]]
 - [[Team Notes\|Team Notes]]
 - [[wp-dev.ucsc notes\|wp-dev.ucsc notes]]
@@ -22,10 +23,10 @@
 
 ## To do
 
-- [ ] GTM [Button click tracking](https://usefathom.com/learn/track-button-clicks-google-analytics) (for Adam)
 - [ ] Rob's Google Oauth
 - [ ] 60th logo on campus headers
 - [ ] Test card
+- [ ] GTM [Button click tracking](https://usefathom.com/learn/track-button-clicks-google-analytics) (for Adam)
 
 { .block-language-dataview}
 

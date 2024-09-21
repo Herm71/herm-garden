@@ -6,9 +6,8 @@
 
 ## Index
 
-- [[Maps of Content\|Maps of Content]]
 - [[Thoughts on Obsidian\|Thoughts on Obsidian]]
-- [[Bio\|Bio]]
+- [[Maps of Content\|Maps of Content]]
 
 { .block-language-dataview}
 
