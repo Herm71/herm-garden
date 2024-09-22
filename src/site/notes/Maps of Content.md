@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/maps-of-content/","title":"Maps of Content","tags":["obsidian","project-management"],"noteIcon":"1","created":"2024-09-20T11:07:09.292-07:00","updated":"2024-09-21T16:50:01.295-07:00"}
+{"dg-publish":true,"permalink":"/maps-of-content/","title":"Maps of Content","tags":["obsidian","project-management"],"noteIcon":"1","created":"2024-09-20T11:07:09.292-07:00","updated":"2024-09-21T18:29:00.928-07:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[Tech MOC\|Tech MOC]] | [[Writing MOC\|Writing MOC]]
@@ -65,6 +65,8 @@ Any topic can be organized in this manner. Create MOCs for whatever you want and
 Obsidian offers a **Homepage** plugin that allows a user to use any note as a home page or dashboard. It can be set to open automatically once you launch Obsidian, giving you an overview of your notes. 
 
 Linking from your Homepage to your various MOCs gives you easy access to their content. It also allows you drill down and focus on just the MOC (ie., Project) you want to address.
+
+Something like:
 
 ![moc-of-mocs.png|MOC of MOCS](/img/user/attachments/moc-of-mocs.png)
 ### Final Thoughts
