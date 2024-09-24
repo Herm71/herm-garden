@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2024-self-eval/","hide":true,"tags":["work"],"noteIcon":"","created":"2024-08-27T16:10:41.213-07:00","updated":"2024-09-23T18:54:15.829-07:00"}
+{"dg-publish":true,"permalink":"/2024-self-eval/","hide":true,"tags":["work"],"noteIcon":"","created":"2024-08-27T16:10:41.213-07:00","updated":"2024-09-23T18:55:35.251-07:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[Web Team MOC\|Web Team MOC]]
@@ -18,7 +18,7 @@
 			- Added deprecation labels to the "Accordion Block" in the Gutenberg Blocks plugin
 		- [Added "Zoom" hover effect to all images that contain a link](https://github.com/ucsc/ucsc-2022/pull/351) (`<a>` tag).
 - **UCSC Custom Functionality Plugin**
-	- [Three PRs successfully merged](https://github.com/ucsc/ucsc-custom-functionality/pulls?q=is%3Apr+is%3Aclosed+assignee%3AHerm71)into plugin, including:
+	- [Three PRs successfully merged](https://github.com/ucsc/ucsc-custom-functionality/pulls?q=is%3Apr+is%3Aclosed+assignee%3AHerm71) into plugin, including:
 		- [Re-adding the "Edit site" link to logged-in admin bar](https://github.com/ucsc/ucsc-custom-functionality/pull/23).
 		- [Audit code to make sure it's "pluggable"](https://github.com/ucsc/ucsc-custom-functionality/pull/24) in preparation for installing on the Faculty WordPress service (note, due to recent budget cuts, this project is on hold).
 		- [Added admin settings page under "Settings" menu in the dashboard](https://github.com/ucsc/ucsc-custom-functionality/pull/25).
