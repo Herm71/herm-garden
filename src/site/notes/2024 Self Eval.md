@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2024-self-eval/","hide":true,"tags":["work"],"noteIcon":"","created":"2024-08-27T16:10:41.213-07:00","updated":"2024-09-19T08:55:05.780-07:00"}
+{"dg-publish":true,"permalink":"/2024-self-eval/","hide":true,"tags":["work"],"noteIcon":"","created":"2024-08-27T16:10:41.213-07:00","updated":"2024-09-23T18:54:15.829-07:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[Web Team MOC\|Web Team MOC]]
@@ -9,7 +9,7 @@
  - **Launch new UCSC Web Presence**, Sept. 2023
 	- I was part of the team that developed and migrated the old WCMS UCSC home presence to WordPress, which launched in Late September
 - **UCSC WordPress Theme**
-	- [15 PRs successfully merged into the UCSC WordPress theme](https://github.com/ucsc/ucsc-2022/pulls?q=is%3Apr+is%3Aclosed+assignee%3AHerm71), one that is approved but not merged. Notable contributions include:
+	- [16 PRs successfully merged into the UCSC WordPress theme](https://github.com/ucsc/ucsc-2022/pulls?q=is%3Apr+is%3Aclosed+assignee%3AHerm71), ~~one that is approved but not merged.~~  Notable contributions include:
 		- [Corrected issues with images breaking out of their content area](https://github.com/ucsc/ucsc-2022/pull/274). (This is a noted WordPress bug 🐛.)
 		- Contributed to the initial design of the [single post template](https://github.com/ucsc/ucsc-2022/pull/290).
 		- Returned the ["Last modified" date](https://github.com/ucsc/ucsc-2022/pull/298) to the footer area.
