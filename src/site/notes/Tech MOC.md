@@ -5,6 +5,7 @@
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
 ## Index
 
+- [[JC Website TODO\|JC Website TODO]]
 - [[Maps of Content\|Maps of Content]]
 - [[Home Tech\|Home Tech]]
 - [[Domain Inventory\|Domain Inventory]]
@@ -15,5 +16,7 @@
 
 - [ ] **HomeAssistant:** Remove forward to DUCKDNS and redo NABU CASA link📅 2024-09-19
 - [ ] **Homebrew:** Configure auto-update
+- [ ] Make prettier 🔼
+- [ ] Breadcrumbs ⏫
 
 { .block-language-dataview}
