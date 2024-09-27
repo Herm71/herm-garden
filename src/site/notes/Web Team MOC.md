@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/web-team-moc/","title":"Web Team","tags":["work"],"noteIcon":"","created":"2024-08-19T10:30:31.715-07:00","updated":"2024-09-21T09:00:36.228-07:00"}
+{"dg-publish":true,"permalink":"/web-team-moc/","title":"Web Team","tags":["work"],"noteIcon":"","created":"2024-08-19T10:30:31.715-07:00","updated":"2024-09-27T12:41:39.977-07:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
 ## Index
+- [[C&M Website Migration\|C&M Website Migration]]
 - [[UCSC Portfolio\|UCSC Portfolio]]
 - [[Radar\|Radar]]
 - [[Team Notes\|Team Notes]]
@@ -23,11 +24,15 @@
 
 ## To do
 
-- [ ] Rob's Google Oauth
-- [ ] 60th logo on campus headers
-- [ ] Test card
-- [ ] GTM [Button click tracking](https://usefathom.com/learn/track-button-clicks-google-analytics) (for Adam)
+# Communication Website Migration
+
+    - [ ] Request new site from ITS 🆔 v6f0ie 🛫 2024-09-27 📅 2024-09-28
+    - [ ] Migrate content from `Dev` to `Prod` ⛔ v6f0ie
+# Web Team
+
+    - [ ] GTM [Button click tracking](https://usefathom.com/learn/track-button-clicks-google-analytics) (for Adam)
 
 { .block-language-dataview}
 
 ### [[Web Team Completed Tasks \| Completed Tasks]]
+
