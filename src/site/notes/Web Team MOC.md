@@ -6,7 +6,6 @@
 ## Index
 - [[C&M Website Migration\|C&M Website Migration]]
 - [[UCSC Portfolio\|UCSC Portfolio]]
-- [[Radar\|Radar]]
 - [[Team Notes\|Team Notes]]
 - [[wp-dev.ucsc notes\|wp-dev.ucsc notes]]
 - [[2024 Self Eval\|2024 Self Eval]]
@@ -26,7 +25,6 @@
 
 # Communication Website Migration
 
-    - [ ] Request new site from ITS 🆔 v6f0ie 🛫 2024-09-27 📅 2024-09-28
     - [ ] Migrate content from `Dev` to `Prod` ⛔ v6f0ie
 # Web Team
 

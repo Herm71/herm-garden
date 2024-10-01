@@ -27,5 +27,6 @@
 - [x] Obsidian! I'm using Obsidian, trying things out, learning the UI ✅ 2024-06-18
 - [x] Pull Requests, [Theme](https://github.com/ucsc/ucsc-2022/pull/342) and [Plugin](https://github.com/ucsc/ucsc-custom-functionality/pull/25) ✅ 2024-06-18
 - [x] [Quarry Website](https://quarry.ucsc.edu/) ✅ 2024-06-18
+- [x] Request new site from ITS 🆔 v6f0ie 🛫 2024-09-27 📅 2024-09-28 ✅ 2024-09-30 >[!NOTE] >Submitted : 09-30-2024 09:09 AM >Request Number : **REQ0098640** >Estimated Delivery : 10-09-2024
 
 { .block-language-dataview}

@@ -9,6 +9,7 @@
 { .block-language-dataview}
 
 ## To do:
-- [ ] Change muircat image to a stock ucsc image 📅 2024-09-26
+- [ ] Change muircat image to a stock ucsc image 📅 2024-09-26 ❌ 2024-10-01
+- [ ] Finish [example patterns issue](https://github.com/ucsc/ucsc-2022/issues/350) in theme📅 2024-10-04
 
 { .block-language-dataview}

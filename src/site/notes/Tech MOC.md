@@ -5,19 +5,19 @@
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
 ## Index
 
+- [[Home Tech\|Home Tech]]
 - [[JC Website TODO\|JC Website TODO]]
 - [[Maps of Content\|Maps of Content]]
-- [[Home Tech\|Home Tech]]
 - [[Domain Inventory\|Domain Inventory]]
 
 { .block-language-dataview}
 
 ## To do
 
-- [ ] **Homebrew:** Configure auto-update
 - [ ] Make prettier 🔼
-- [ ] Breadcrumbs ⏫
 - [ ] Style links
-- [ ] Single post template
+- [ ] Drafts management
+- [ ] RSS feed
+- [ ] **Homebrew:** Configure auto-update
 
 { .block-language-dataview}
