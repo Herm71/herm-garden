@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/gb-proposal/","hide":true,"tags":["WordPress","work"],"noteIcon":"2","created":"2024-06-19T12:20:56.795-07:00","updated":"2024-09-19T12:53:39.263-07:00"}
+{"dg-publish":true,"permalink":"/gb-proposal/","hide":true,"tags":["WordPress","work"],"noteIcon":"2","created":"2024-06-19T12:20:56.795-07:00","updated":"2024-10-03T09:49:46.599-07:00"}
 ---
 
-[[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] >  [[Plugins MOC\|Plugins MOC]] > [[Gutenberg Blocks MOC\|Gutenberg Blocks MOC]]
+[[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] 
 
 The [C&M Web Team](https://advancement.ucsc.edu/about/the-team/communications-and-marketing/#:~:text=ngonza32%40ucsc.edu-,Digital%20Strategies,-Robert%20Allen%20Knight) has developed a decent workflow on [Github](https://github.com/) with respect to creating issues, issuing PRs, reviewing and approving PRs, and issuing releases. We have implemented build and release hooks that automatically issue a release and generate a change log and release notes for our projects. This workflow is not currently incorporated into the Gutenberg Blocks repo.
 

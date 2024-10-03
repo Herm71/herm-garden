@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/domain-inventory/","hide":true,"tags":["home","tech"],"noteIcon":"","created":"2024-09-16T21:15:04.172-07:00","updated":"2024-09-20T10:29:41.063-07:00"}
+{"dg-publish":true,"permalink":"/domain-inventory/","hide":true,"tags":["home","tech"],"noteIcon":"","created":"2024-09-16T21:15:04.172-07:00","updated":"2024-10-03T11:24:56.269-07:00"}
 ---
 
-[[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[Tech MOC\|Tech MOC]]
+[[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] 
 
 
 | Domain Name                                                                       | Registrar                             | Status  |

@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/news-center-migration-notes/","hide":true,"tags":["WordPress","work"],"noteIcon":"","created":"2024-08-19T18:57:16.280-07:00","updated":"2024-09-19T08:59:21.433-07:00"}
+{"dg-publish":true,"permalink":"/news-center-migration-notes/","hide":true,"tags":["WordPress","work"],"noteIcon":"","created":"2024-08-19T18:57:16.280-07:00","updated":"2024-10-03T10:14:26.707-07:00"}
 ---
 
-[[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[News Center Migration MOC\|News Center Migration MOC]]
+[[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[News Center Migration\|News Center Migration]]
 
+## 2024-10-01
+Modern Tribe design review discussion.
+- [Review Document](https://docs.google.com/document/d/1gwy3w59uFwPGXfMknBG-Pqb-AoEX5wqvo3M55taK94I/edit#heading=h.8gkvacbz93ia)
+- [Loom Design Walkthrough](https://www.loom.com/share/28fe32e92f7b49b8b9598484cf86dbe6?sid=cf81278d-efcb-4141-8b09-3ff966d5d4d0)
 ## 2024-09-17
 
 ## Spinning plates (Rob's word)

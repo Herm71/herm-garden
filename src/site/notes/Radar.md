@@ -1,25 +1,31 @@
 ---
-{"dg-publish":true,"permalink":"/radar/","title":"Radar","hide":true,"tags":["work"],"noteIcon":"","created":"2024-09-21T07:42:22.687-07:00","updated":"2024-09-30T16:44:33.205-07:00"}
+{"dg-publish":true,"permalink":"/radar/","title":"Radar","hide":true,"tags":["work"],"noteIcon":"","created":"2024-09-21T07:42:22.687-07:00","updated":"2024-10-03T11:46:54.038-07:00"}
 ---
 
 
 ## Backlog
 
 - [ ] [[C&M Website Migration\|C&M Website Migration]]
-- [ ] [[Foundation Website Launch\|Foundation Website Launch]]
+- [ ] [[UCSC Gutenberg Blocks Plugin\|UCSC Gutenberg Blocks Plugin]]
+- [ ] [[UCSC News Functionality Plugin\|UCSC News Functionality Plugin]]
 
 
 ## Started
 
+- [ ] [[Foundation Website Launch\|Foundation Website Launch]]
 
 
 ## Ongoing
 
+- [ ] [[UCSC Custom Functionality Plugin\|UCSC Custom Functionality Plugin]]
+- [ ] [[UCSC Events Calendar\|UCSC Events Calendar]]
+- [ ] [[UCSC WordPress Theme\|UCSC WordPress Theme]]
+- [ ] [[News Center Migration\|News Center Migration]]
+- [ ] [[Web Team\|Web Team]]
 
 
 ## Done
 
-- [ ] 60th logo on campus headers
 
 
 ***
@@ -27,4 +33,5 @@
 ## Archive
 
 - [ ] Test card
+- [ ] Thu, Oct 3rd, 242024 60th logo on campus headers
 

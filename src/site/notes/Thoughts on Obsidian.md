@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts-on-obsidian/","title":"Thoughts on Obsidian","tags":["draft","obsidian","project-management"],"noteIcon":"1","created":"2024-09-19T18:40:27.571-07:00","updated":"2024-09-21T16:46:50.084-07:00"}
+{"dg-publish":true,"permalink":"/thoughts-on-obsidian/","tags":["draft","obsidian","project-management"],"noteIcon":"1","created":"2024-09-19T18:40:27.571-07:00","updated":"2024-10-03T11:38:03.640-07:00"}
 ---
 
-[[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[Writing MOC\|Writing MOC]]
+[[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] 
 
 >[!tldr] TLDR:
 > As a web developer, I am a [Markdown](https://www.markdownguide.org/) enthusiast. I've developed several static sites using [Jekyll](https://jekyllrb.com/) and [Eleventy](https://www.11ty.dev/) and am comfortable using frontmatter. [Obsidian](https://obsidian.md) combines the ease of writing Markdown with the power of frontmatter (and inline) tags and properties. Add to that  a robust plugin community you've got a seriously powerful project and task management tool

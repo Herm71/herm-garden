@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ucsc-portfolio/","title":"UCSC Website Porfolio","hide":true,"tags":["work","tech"],"noteIcon":"","created":"2024-09-21T16:08:34.148-07:00","updated":"2024-09-21T16:27:42.809-07:00"}
+{"dg-publish":true,"permalink":"/ucsc-portfolio/","hide":true,"tags":["work","tech"],"noteIcon":"","created":"2024-09-21T16:08:34.148-07:00","updated":"2024-10-03T10:50:21.050-07:00"}
 ---
 
-[[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[Web Team MOC\|Web Team MOC]]
+[[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] 
 
 - [UC Santa Cruz](https://ucsc.edu/)
 - [Events Calendar](https://calendar.ucsc.edu/)
