@@ -8,11 +8,11 @@
 ### Unpublished
 
 - [[On Building with Eleventy\|On Building with Eleventy]]
+- [[My journey to Linux\|My journey to Linux]]
 
 { .block-language-dataview}
 ### Published
 
-- [[My journey to Linux\|My journey to Linux]]
 - [[Thoughts on Obsidian\|Thoughts on Obsidian]]
 - [[Maps of Content\|Maps of Content]]
 
