@@ -7,6 +7,7 @@
 ## Index
 ### Unpublished
 
+- [[Vault Organizational Principles\|Vault Organizational Principles]]
 - [[On Building with Eleventy\|On Building with Eleventy]]
 - [[My journey to Linux\|My journey to Linux]]
 

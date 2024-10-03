@@ -6,6 +6,7 @@
 
 ## Index
 
+- [[Vault Organizational Principles\|Vault Organizational Principles]]
 - [[Foundation Website Launch\|Foundation Website Launch]]
 - [[WP Service Team Notes\|WP Service Team Notes]]
 - [[Layoff discussion\|Layoff discussion]]
