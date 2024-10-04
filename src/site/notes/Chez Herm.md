@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/chez-herm/","tags":["home"],"noteIcon":"","created":"2024-09-18T08:26:24.166-07:00","updated":"2024-10-03T16:12:37.152-07:00"}
+{"dg-publish":true,"permalink":"/chez-herm/","tags":["home"],"noteIcon":"","created":"2024-09-18T08:26:24.166-07:00","updated":"2024-10-03T18:35:07.007-07:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
 ## Index
 
+- [[JC Website\|JC Website]]
+- [[Digital Garden\|Digital Garden]]
 - [[Domestic\|Domestic]]
 - [[Writing\|Writing]]
 - [[Home Tech\|Home Tech]]
