@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/news-block-pr-review/","hide":true,"noteIcon":"","created":"2024-10-04T07:34:22.972-07:00","updated":"2024-10-04T14:19:34.160-07:00"}
+{"dg-publish":true,"permalink":"/news-block-pr-review/","hide":true,"noteIcon":"","created":"2024-10-04T07:34:22.972-07:00","updated":"2024-10-04T14:26:47.015-07:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
@@ -19,21 +19,22 @@ This PR adds a **News Block** icon in the block chooser of a Page or Post editor
 >- [[News Block PR Review#Whole Card Wrapped in Link\|#Whole Card Wrapped in Link]]
 >
 >**Questions:**
->- Should the presence of the block be indicated int the [[News Block PR Review#Editor Experience\|#Editor Experience]]?
+>- Should the presence of the block be indicated in the [[News Block PR Review#Editor Experience\|#Editor Experience]]?
 >- Should [[News Block PR Review#Title and Description\|#Title and Description]] be stylable?
 >- Are we omitting [[News Block PR Review#Taxonomies\|#Taxonomies]] on purpose?
 >- Should we be able to control the number of [[News Block PR Review#Posts per page\|#Posts per page]]?
 
 
 # Analysis
+This analysis is based on a review of the [Register News Block](https://github.com/ucsc/ucsc-custom-functionality/pull/30) pull request by Modern Tribe.
 ## Editor Experience
 >[!Question]
 >Should there be some indicator that there is a "news block" on the page in the editor?
 
-New block is available in block chooser.
+The new block is available in block chooser.
 ![news-block-block-icon.png](/img/user/attachments/news-block-block-icon.png)
 
-Once the block is dropped onto a Page or Post, there is initially no visual indication that the block is *on the page*
+Once the block is dropped onto a Page or Post, however, there is initially no visual indication that the block is *on the page*
 ![news-block-no-indication.png](/img/user/attachments/news-block-no-indication.png)
 
 But **Block options** appear in the right-hand settings column.
