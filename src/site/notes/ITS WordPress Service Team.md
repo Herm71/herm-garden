@@ -6,15 +6,12 @@
 
 ## Index
 
-- [[Vault Organizational Principles\|Vault Organizational Principles]]
 - [[Foundation Website Launch\|Foundation Website Launch]]
 - [[WP Service Team Notes\|WP Service Team Notes]]
-- [[Layoff discussion\|Layoff discussion]]
 
 { .block-language-dataview}
 
 ## To do
 
-- [ ] Confirm [Foundation Site](https://foundation.wordpress.ucsc.edu/) is launched📅 2024-10-03 ⛔ bcdjjh
 
 { .block-language-dataview}

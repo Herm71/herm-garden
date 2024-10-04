@@ -5,8 +5,8 @@
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
 ## Index
 
+- [[Domestic\|Domestic]]
 - [[Writing\|Writing]]
-- [[Domestic Tasks\|Domestic Tasks]]
 - [[Home Tech\|Home Tech]]
 - [[Secrets\|Secrets]]
 

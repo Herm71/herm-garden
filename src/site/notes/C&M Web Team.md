@@ -4,7 +4,6 @@
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
 ## Index
-- [[Vault Organizational Principles\|Vault Organizational Principles]]
 - [[Web Team\|Web Team]]
 - [[News Center Migration\|News Center Migration]]
 - [[UCSC Events Calendar\|UCSC Events Calendar]]

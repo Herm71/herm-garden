@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/wp-service-team-notes/","hide":true,"tags":["work"],"noteIcon":"","created":"2024-08-19T18:30:21.644-07:00","updated":"2024-10-03T10:31:13.927-07:00"}
+{"dg-publish":true,"permalink":"/wp-service-team-notes/","hide":true,"tags":["work"],"noteIcon":"","created":"2024-08-19T18:30:21.644-07:00","updated":"2024-10-03T16:20:36.266-07:00"}
 ---
 
-[[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[ITS WordPress Service Team\|ITS WordPress Service Team]]
-
+[[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] 
 [Running meeting notes](https://docs.google.com/document/d/1OmAIQF0OvszUOfYfECE_DmLnkLBVRKoXlOuMqtqAM50/edit#heading=h.5fbp2ddlsvia)
 ## 2024-09-30
 Office of Planned Giving
