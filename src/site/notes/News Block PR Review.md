@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/news-block-pr-review/","hide":true,"noteIcon":"","created":"2024-10-04T07:34:22.972-07:00","updated":"2024-10-04T13:19:30.382-07:00"}
+{"dg-publish":true,"permalink":"/news-block-pr-review/","hide":true,"noteIcon":"","created":"2024-10-04T07:34:22.972-07:00","updated":"2024-10-04T14:19:34.160-07:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
@@ -9,9 +9,24 @@ Modern Tribe created a PR that creates the News Block in the Custom Functionalit
 - [Register News Block #30](https://github.com/ucsc/ucsc-custom-functionality/pull/30)
 
 This PR adds a **News Block** icon in the block chooser of a Page or Post editor with the *ucsc* name space.
+# Conclusion
+>[!note] TLDR;
+>This is a functional prototype. It pulls posts from [Pantheon Dev News](https://dev-news-ucsc.pantheonsite.io/) into a block, returning structured html. Here are a number of fixes and suggestions:
+>
+>**Fixes:**
+>- [[News Block PR Review#Header Alignment\|#Header Alignment]]
+>- [[News Block PR Review#More News Link\|#More News Link]]
+>- [[News Block PR Review#Whole Card Wrapped in Link\|#Whole Card Wrapped in Link]]
+>
+>**Questions:**
+>- Should the presence of the block be indicated int the [[News Block PR Review#Editor Experience\|#Editor Experience]]?
+>- Should [[News Block PR Review#Title and Description\|#Title and Description]] be stylable?
+>- Are we omitting [[News Block PR Review#Taxonomies\|#Taxonomies]] on purpose?
+>- Should we be able to control the number of [[News Block PR Review#Posts per page\|#Posts per page]]?
+
 
 # Analysis
-## User Experience
+## Editor Experience
 >[!Question]
 >Should there be some indicator that there is a "news block" on the page in the editor?
 
@@ -115,7 +130,9 @@ On the front end (hover):
 ![news-center-post-link.png](/img/user/attachments/news-center-post-link.png)
 
 
-### No "Items per page" Option
-There is no option to control the number of returned posts 
+### Posts per page
+
 >[!Question]
 >Should controlling the number news items returned be an option?
+
+The WordPress Query Block provides options to control the number of posts per page that are returned. Should/could we add this as an option to this block? 
