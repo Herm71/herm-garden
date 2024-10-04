@@ -15,7 +15,6 @@
 
 ## To do
 
-- [ ] Review [PR for News Block](https://github.com/ucsc/ucsc-custom-functionality/pull/30) on [[UCSC Custom Functionality Plugin\|UCSC Custom Functionality Plugin]] 🛫 2024-10-01 ⏳ 2024-10-01 📅 2024-10-02
 - [ ] GTM [Button click tracking](https://usefathom.com/learn/track-button-clicks-google-analytics) (for Adam)
 
 { .block-language-dataview}
