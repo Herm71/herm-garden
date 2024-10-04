@@ -5,12 +5,12 @@
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
 ## Index
 
-- [[JC Website\|JC Website]]
-- [[Digital Garden\|Digital Garden]]
-- [[Domestic\|Domestic]]
 - [[Writing\|Writing]]
-- [[Home Tech\|Home Tech]]
 - [[Secrets\|Secrets]]
+- [[JC Website\|JC Website]]
+- [[Home Tech\|Home Tech]]
+- [[Domestic\|Domestic]]
+- [[Digital Garden\|Digital Garden]]
 
 { .block-language-dataview}
 

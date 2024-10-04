@@ -6,8 +6,8 @@
 
 ## Index
 
-- [[Foundation Website Launch\|Foundation Website Launch]]
 - [[WP Service Team Notes\|WP Service Team Notes]]
+- [[Foundation Website Launch\|Foundation Website Launch]]
 
 { .block-language-dataview}
 
