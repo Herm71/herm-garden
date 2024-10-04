@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/news-block-pr-review/","hide":true,"noteIcon":"","created":"2024-10-04T07:34:22.972-07:00","updated":"2024-10-04T13:13:55.342-07:00"}
+{"dg-publish":true,"permalink":"/news-block-pr-review/","hide":true,"noteIcon":"","created":"2024-10-04T07:34:22.972-07:00","updated":"2024-10-04T13:19:30.382-07:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
@@ -25,7 +25,7 @@ But **Block options** appear in the right-hand settings column.
 ![news-block-options.png](/img/user/attachments/news-block-options.png)
 
 ## Block Options
-
+Discussion of the *block options* in the right-hand sidebar.
 ### Title and Description
 >[!Question]
 >Should these elements be styleable?
