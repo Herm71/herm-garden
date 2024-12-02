@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-02T12:39:07.657-08:00"}
+{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-02T12:40:22.552-08:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
@@ -36,7 +36,7 @@ ACF data is *metadata* -- it is stored as separate entries in the `wp_postmeta` 
 ## First Attempted Solution
 ### ACF Block
 
-ACF Pro provides a `PHP` based framework for [creating custom blocks](https://www.advancedcustomfields.com/resources/blocks/) for their fields. My first thought was that I needed to create a new custom block for my ACF Style Guide fields. I followed their [tutorial for creating an ACF Block](https://www.advancedcustomfields.com/resources/create-your-first-acf-block/) and was able to create a block that displayed my fields. However, the resulting block only allowed creating *new entries* with those fields; I was unable to display the entries that I imported from the original site via the block. 
+ACF Pro provides a `PHP` based framework for [creating custom blocks](https://www.advancedcustomfields.com/resources/blocks/) for their fields. My first thought was that I needed to create a new custom block for my ACF Style Guide fields. Using a development plugin, I followed their [tutorial for creating an ACF Block](https://www.advancedcustomfields.com/resources/create-your-first-acf-block/) and was able to create a block that displayed my fields. However, the resulting block only allowed creating *new entries* with those fields; I was unable to display the entries that I imported from the original site via the block. 
 
 ![acf-style-block.png](/img/user/attachments/acf-style-block.png)
 Custom ACF Block with fields but no data
