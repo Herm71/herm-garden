@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-02T12:44:43.013-08:00"}
+{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-02T12:48:20.309-08:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
@@ -113,7 +113,7 @@ return $finaldefs;
 
 ### The Original Archive Template Loop
 
-For the "Archive template" (I actually used this in a Page on the original site and not the archive template itself -- but the concept is the same), I wrote a similar loop. The "archive loop" needs to [show *all content* from every CPT post](https://communications.ucsc.edu/editorial/editorial-style-guide/) in addition to some precursor content that appears before it. This is an "A to Z Style Guide" so there are 26 posts in this CPT. The "archive" loop needs to list all pages and their content alphabetically. Navigating the style guide is similar to navigating a dictionary or encyclopedia. The original site's code below does this.
+For the "Archive template" (I actually used this in a Page on the original site and not the archive template itself -- but the concept is the same), I wrote a similar loop. The "archive loop" needs to [show *all content* from every CPT post](https://communications.ucsc.edu/editorial/editorial-style-guide/) in addition to some precursor content that appears before it. This is an "A to Z Style Guide" so there are 26 posts in this CPT. The "archive" loop needs to list all posts and their content alphabetically. Navigating the style guide is similar to navigating a dictionary or encyclopedia. The original site's code below does this.
 
 ```php
 remove_action( 'genesis_loop', 'genesis_do_loop' );
