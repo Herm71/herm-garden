@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-02T12:36:10.037-08:00"}
+{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-02T12:39:07.657-08:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
@@ -32,7 +32,7 @@ The problem is displaying that content on the front-end.
 ![acf-fields-imported.png](/img/user/attachments/acf-fields-imported.png)
 Post content vs Post metadata
 
-ACF data is *metadata* -- it is stored as separate entries in the `wp_postmeta` tables of the database; whereas block data is stored as part of `post_content`. As mentioned, the original site was a complete custom build. I relied on custom templates containing custom loops to render my custom fields on the front-end of the site. I don't have the ability to create custom `PHP` templates in the new site so I needed a way to get this content onto the page.
+ACF data is *metadata* -- it is stored as separate entries in the `wp_postmeta` tables of the database; whereas block data is stored as part of `post_content`. As mentioned, the original site was a complete custom build. I relied on custom templates containing custom loops to render my custom fields on the front-end of the site. I don't have the ability to create custom `PHP` templates in the new site so I need a way to get this content onto the page.
 ## First Attempted Solution
 ### ACF Block
 
