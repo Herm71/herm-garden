@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-02T10:38:51.165-08:00"}
+{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-02T10:57:35.936-08:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
@@ -86,7 +86,7 @@ Converting this to a shortcode is not to too difficult. Since I imported my fiel
 
 #### `return`, don't `echo`
 
-An important thing to remember when writing shortcodes in `PHP` is that they are `return`ed not `echo`ed. So, all the `echo` statements in the above function need to be converted to a `return`. Notice that I set up an empty string variable at the top I'm calling `$finaldefs`. I build on it using `.=` concatenation and that variable is what is finally *returned*.
+An important thing to remember when writing shortcodes in `PHP` is that they are `return`ed not `echo`ed. So, all the `echo` statements in the above function need to be converted to a `return`. Notice that I set up an empty string variable at the top I'm calling `$finaldefs`. I build on it using `.=` concatenation and that variable is what is ultimately *returned*.
 
 In the following example, the resulting shortcode is called `[style-definition]`.
 
@@ -246,7 +246,7 @@ Style Guide entry with ACF content rendered by shortcode
 
 ### Archive "template"
 
-The next task is to create an "archive page" that displays all content from every CPT on a single page.
+The next task is to create an "archive page" that displays all content from every post of the CPT on a single page.
 
 When setting up a CPT in ACF, one of the options in the **Advanced Settings** allows one to create an **Archive** for the CPT that can be controlled via an archive template in the theme.
 
