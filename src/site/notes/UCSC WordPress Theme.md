@@ -11,14 +11,17 @@ Project overview of UCSC WordPress Theme
 ## Index
 
 - [[WordPress Patterns General Notes\|WordPress Patterns General Notes]]
+- [[Team Notes\|Team Notes]]
 - [[Issue 348 Stat Pattern Bounding Box\|Issue 348 Stat Pattern Bounding Box]]
 
 { .block-language-dataview}
 
 ## To do
 
-- [-] Change muircat image to a stock ucsc image 📅 2024-09-26
-- [ ] Finish [example patterns issue](https://github.com/ucsc/ucsc-2022/issues/350) in theme📅 2024-10-04
+- [ ] Yes
+- [ ] No, this doesn't need tests because...
+- [ ] No, I need help figuring out how to write the tests.
+- [ ] GTM [Button click tracking](https://usefathom.com/learn/track-button-clicks-google-analytics) (for Adam)
 - [ ] [Mark Budz issue](https://github.com/ucsc/ucsc-2022/issues/348): Try playing around with DOM elements in code-pen. See if possibled to pull one element on top of another with no whitespace beneath it.🔼
 
 { .block-language-dataview}
