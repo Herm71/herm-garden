@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-02T12:40:22.552-08:00"}
+{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-02T12:44:43.013-08:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
@@ -57,7 +57,7 @@ Since ACF data is stored in `wp_postmeta` and block data is stored in `post_cont
 
 As mentioned above, the original bespoke theme used custom loops in custom page and post templates to render field data on the front-end. On the new site, I needed to convert the custom loops into shortcodes.
 
-I do have one method of adding custom code to the new site. At UCSC, we maintain a [custom functionality plugin](https://github.com/ucsc/ucsc-custom-functionality) for our sites that we update regularly. We already provide a few [shortcodes](https://github.com/ucsc/ucsc-custom-functionality/blob/main/lib/functions/shortcodes.php) in this plugin. This means I have a place outside the theme to develop a bit more "custom functionality" and the next update of the plugin will make it available for all of our sites (although it would only work on the new C&M site). 
+We have a method for adding custom code to UCSC websites. We maintain a [custom functionality plugin](https://github.com/ucsc/ucsc-custom-functionality) that we update regularly. We already provide a few [shortcodes](https://github.com/ucsc/ucsc-custom-functionality/blob/main/lib/functions/shortcodes.php) in this plugin. This means I have a place outside the theme to develop a bit more "custom functionality." The next update of the plugin would make it available for all of our sites (although it would only work on the new C&M site). 
 
 (A second option would be to develop another plugin just for the new site; however, since our network is hosted by CampusPress, we need to get any additional plugins cleared by them before we can upload them to the network, adding bureaucratic overhead. We've already gotten our current custom functionality plugin approved, so I'd recommend adding to the current plugin.)
 
