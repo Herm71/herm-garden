@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-02T12:30:03.304-08:00"}
+{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-02T12:35:10.469-08:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
@@ -21,7 +21,7 @@ The original site was built pre-Gutenberg and the ACF content is rendered in `PH
 
 I was able to export the ACF Field Groups from the current C&M site as `.json` and import them into a local development site that I spun up using [wp-env](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-env/). In the original site, I registered the CPT via a custom plugin. I can't rely on this plugin on the new site, so I used ACF to create an "empty" CPT on my dev site using the exact same name and slug as on the original site. 
 
-Once I imported my ACF `.json` data and created a CPT, I went into the original site's dashboard and exported *just* the Style Guide's CPT as a `.xml` file and imported it into my dev site. (This is a prototype. If all goes well, I'll incorporate this process into the final migration.)
+Once this was done, I went into the original site's dashboard and exported *just* the Style Guide's CPT as a `.xml` file and imported it into my dev site. (This is a prototype. If all goes well, I'll incorporate this process into the final migration.)
 
 The import worked perfectly. I had all my posts from the old site and in their editors, I had their ACF fields with all the content. 
 
