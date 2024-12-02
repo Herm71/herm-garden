@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-02T10:57:35.936-08:00"}
+{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-02T12:04:48.022-08:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
@@ -36,7 +36,7 @@ ACF data is *metadata* -- it is stored as separate entries in the `wp_postmeta` 
 ## First Attempted Solution
 ### ACF Block
 
-ACF Pro provides a `PHP` based framework for [creating custom blocks](https://www.advancedcustomfields.com/resources/blocks/) for their fields. My first thought was that I needed to create a new custom block for my ACF Style Guide fields. I followed their [tutorial for creating an ACF Block](https://www.advancedcustomfields.com/resources/create-your-first-acf-block/) and was able to create a block that displayed my fields. However, the resulting block only allowed creating *new entries* with those fields; I was unable to display the old entries that I exported from the original site via the block. 
+ACF Pro provides a `PHP` based framework for [creating custom blocks](https://www.advancedcustomfields.com/resources/blocks/) for their fields. My first thought was that I needed to create a new custom block for my ACF Style Guide fields. I followed their [tutorial for creating an ACF Block](https://www.advancedcustomfields.com/resources/create-your-first-acf-block/) and was able to create a block that displayed my fields. However, the resulting block only allowed creating *new entries* with those fields; I was unable to display the entries that I imported from the original site via the block. 
 
 ![acf-style-block.png](/img/user/attachments/acf-style-block.png)
 Custom ACF Block with fields but no data
@@ -46,6 +46,9 @@ After much time searching for an answer, I learned that because of the different
 ### Plugin
 
 As part of my research, I came across the [Meta Field Block](https://wordpress.org/plugins/display-a-meta-field-as-block/) plugin in WordPress' Plugin Directory. According to its directory page, it will *display custom fields in WordPress Gutenberg effortlessly*. This did not turn out to be the case in my experiment. While the plugin claims to support "all ACF field types," it did not work for my repeater field in this use case so I abandoned it.
+
+![data-type-not-supported.png](/img/user/attachments/data-type-not-supported.png)
+Repeater field not supported in Meta Field Block plugin
 
 ## My Solution
 ### Shortcodes
