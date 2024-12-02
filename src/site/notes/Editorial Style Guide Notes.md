@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-02T10:05:53.453-08:00"}
+{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-02T10:33:42.025-08:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
@@ -30,6 +30,7 @@ The import worked perfectly. I had all my posts from the old site and in their e
 The problem is displaying that content on the front-end. 
 ### `wp_postmeta` vs `post_content`
 ![acf-fields-imported.png](/img/user/attachments/acf-fields-imported.png)
+Post content vs Post metadata
 
 ACF data is *metadata* -- it is stored as separate entries in the `wp_postmeta` tables of the database; whereas block data is stored as part of `post_content`. As mentioned, the original site was a complete custom build. I relied on custom templates containing custom loops to render my custom fields on the front-end of the site. I don't have the ability to create custom `PHP` templates or loops in the new site so I needed a way to get this content onto the page.
 ## First Attempted Solution
@@ -38,6 +39,7 @@ ACF data is *metadata* -- it is stored as separate entries in the `wp_postmeta` 
 ACF Pro provides a `PHP` based framework for [creating custom blocks](https://www.advancedcustomfields.com/resources/blocks/) for their fields. My first thought was that I needed to create a new custom block for my ACF Style Guide fields. I followed their [tutorial for creating an ACF Block](https://www.advancedcustomfields.com/resources/create-your-first-acf-block/) and was able to create a block that displayed my fields. However, the resulting block only allowed creating *new entries* with those fields; I was unable to display the old entries that I exported from the original site via the block. 
 
 ![acf-style-block.png](/img/user/attachments/acf-style-block.png)
+Custom ACF Block with fields but no data
 
 After much time searching for an answer, I learned that because of the different places ACF data and Block data is stored, [there is not an elegant situation for this situation](https://support.advancedcustomfields.com/forums/topic/converting-to-gutenberg-block/).
 ## Second Attempted Solution
@@ -54,11 +56,11 @@ As mentioned above, the original bespoke theme used custom loops in custom page 
 
 I do have one method of adding custom code to the new site. At UCSC, we maintain a [custom functionality plugin](https://github.com/ucsc/ucsc-custom-functionality) for our sites that we update regularly. We already provide a few shortcodes in this plugin. This means I have a place outside the theme to develop a bit more "custom functionality" and the next update of the plugin will make it available for all of our sites (although it would only work on the new C&M site). 
 
-A second option would be to develop another plugin just for the new site, which is possible; however, since our network is hosted by CampusPress, we need to get any additional plugins cleared by them before we can upload them to the network. We've already done this with our current custom functionality plugin, so I'd recommend adding to the current plugin.
+(A second option would be to develop another plugin just for the new site, which is possible; however, since our network is hosted by CampusPress, we need to get any additional plugins cleared by them before we can upload them to the network. We've already done this with our current custom functionality plugin, so I'd recommend adding to the current plugin.)
 
 ### The Original Single Template Loop
 
-The original site was developed using the [StudioPress Genesis Framework](https://www.studiopress.com/themes/genesis/). The original site's code below is from the CPT's "`single.php`" template. It removes the default `genesis_loop` and replaces it with the `bb_a_z_style_guide_single_loop()` function, which returns the ACF field data.
+The original site's theme was developed using the [StudioPress Genesis Framework](https://www.studiopress.com/themes/genesis/). The original theme's code below is from the CPT's "`single.php`" template. It removes the default `genesis_loop` and replaces it with the `bb_a_z_style_guide_single_loop()` function, which returns the ACF field data.
 
 ```php
 remove_action( 'genesis_loop', 'genesis_do_loop' );
@@ -220,7 +222,7 @@ Default Single Post/Page template with Content Block
 ![style-single-template.png](/img/user/attachments/style-single-template.png)
 Single Post template for CPT with Shortcode Block and `[style-definitions]` shortcode
 
->[!note] NOTE;
+>[!note] NOTE
 > Removing the *Content Block* from the Template *will not* remove the *Content Editor* from the single-post editor. As the first image in this post illustrates, the Content Editor will appear above the ACF Field Group. 
 >  
 > To minimize confusion, it might be advisable to disable the Content Editor altogether for the Style Guide CPT.
@@ -246,7 +248,7 @@ Style Guide entry with ACF content rendered by shortcode
 
 The next task is to create an "archive page" that displays all content from every CPT on a single page.
 
-When setting up a CPT in ACF, one of the options in the **Advanced Settings** is whether to create an **Archive** for your CPT that can be controlled via an archive template in the theme.
+When setting up a CPT in ACF, one of the options in the **Advanced Settings** allows one to create an **Archive** for the CPT that can be controlled via an archive template in the theme.
 
 ![cpt-archive-option.png](/img/user/attachments/cpt-archive-option.png)
 ACF Archive option in CPT
@@ -260,13 +262,7 @@ Style Guide Content Editor with precursor content and Shortcode block
 Style Guide Page front-end with precursor content above and Style Guide content below
 
 Using this approach, I was able to get the exact same functionality as I had on the original site I am migrating from.
-
 ## Conclusion
 
-As I mention at the top of this post, the development community has not come up with a way to bring legacy metadata content into the Block Editor paradigm. If I were starting "from scratch," on this site, I would have developed a custom ACF Block or perhaps explored the Meta Field Block Plugin more extensively. For now, developing a shortcode, as described in this post, seems to be the best way to achieve this functionality.
-
-# Tasks
-- [ ] Todos go here
-
-Created: <% tp.date.now("YYYY-MM-DD") %>
+As I mention at the top of this post, the development community has not come up with a way to bring legacy metadata content into the Block Editor paradigm. If I were starting "from scratch" on this site, I would have developed a custom ACF Block or perhaps explored the Meta Field Block Plugin more extensively. For now, though, developing a shortcode as described in this post seems to be the best way to achieve this functionality.
 
