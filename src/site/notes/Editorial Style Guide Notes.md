@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-02T12:25:49.390-08:00"}
+{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-02T12:30:03.304-08:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
@@ -268,4 +268,5 @@ Using this approach, I was able to get the exact same functionality as I had on 
 ## Conclusion
 
 As I mention at the top of this post, the development community has not come up with a way to bring legacy metadata content into the Block Editor paradigm. If I were starting "from scratch" on this site, I would have developed a custom ACF Block or perhaps explored the Meta Field Block Plugin more extensively. For now, though, developing a shortcode as described in this post seems to be the best way to achieve this functionality.
+
 
