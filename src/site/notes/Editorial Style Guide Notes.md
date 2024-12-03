@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-03T13:22:03.207-08:00"}
+{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-03T13:25:13.295-08:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
@@ -254,7 +254,7 @@ The next task is to create an "archive" that displays all content from every pos
 
 When setting up a CPT in ACF, one of the options in the **Advanced Settings** allows one to create an **Archive** for the CPT that can be controlled via an archive template in the theme.
 
-![[cpt-archive-option.png \| ACF Archive option in CPT]]
+![cpt-archive-option.png](/img/user/attachments/cpt-archive-option.png)
 ACF Archive option in CPT
 
 I am not using the archive template because our "archive" page also needs to have additional precursor content added to it via the Block Editor that appears above the Style Guide content. 
