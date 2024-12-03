@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-03T13:25:13.295-08:00"}
+{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-03T13:30:33.734-08:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
@@ -263,9 +263,12 @@ While I'm not using the archive template, I have this option turned on for navig
 ![[single-permalink.png \| Single CPT post permalink]]
 With this option selected, its slug or its label (if defined) will also show up in the breadcrumbs for the single CPT post.
 ![single-breadcrumb-with-label.png](/img/user/attachments/single-breadcrumb-with-label.png)
+Breadcrumbs showing `/a-z-style-guide/` CPT archive with `Editorial Style Guide` label
+
 If the Archive option is not selected, its slug will not appear in its breadcrumb (it'll still appear in the permalink).
 
 ![single-breadcrumbs-no-archive.png](/img/user/attachments/single-breadcrumbs-no-archive.png)
+Breadcrumbs of same without CPT Archive option
 
 So, rather than creating a custom archive template for our Style Guide "archive" content, I created a new Page and named it accordingly. I used a redirection plugin to redirect the slug archive `/a-z-style-guide/` to the page slug `/editorial-style-guide/`. This way, when a user clicks "Editorial Style Guide" (the CPT slug's label) in the breadcrumbs, it redirects to the page called "Editorial Style Guide," which is our "archive" page.
 
