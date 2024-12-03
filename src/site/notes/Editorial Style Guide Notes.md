@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-03T13:30:33.734-08:00"}
+{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-03T13:33:50.938-08:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
@@ -280,11 +280,9 @@ Style Guide Content Editor with precursor content and Shortcode block
 ![style-guide-page-precursor-front.png](/img/user/attachments/style-guide-page-precursor-front.png)
 Style Guide Page front-end with precursor content above and Style Guide content below
 
-
-
 Using this approach, I was able to get the exact same functionality as I had on the original site I am migrating from.
 ## Conclusion
 
-As I mention at the top of this post, the development community has not come up with a way to bring legacy metadata content into the Block Editor paradigm. If I were starting "from scratch" on this site, I would have developed a custom ACF Block or perhaps explored the Meta Field Block Plugin more extensively. For now, though, developing a shortcode as described in this post seems to be the best way to achieve this functionality.
+As I mention at the top of this post, the development community has not come up with a way to bring legacy metadata content into the Block Editor paradigm. If I were starting "from scratch" on this site, I would have developed a custom ACF Block or perhaps explored the Meta Field Block Plugin more extensively. For now, though, developing a shortcode as described in this post seems to be the best way to achieve our desired functionality in the immediate term.
 
 
