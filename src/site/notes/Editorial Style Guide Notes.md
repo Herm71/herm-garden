@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-03T15:25:20.177-08:00"}
+{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-03T15:42:49.838-08:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
@@ -8,7 +8,7 @@
 
 ### The Challenge
 
-One of the challenges I've encountered in migrating UCSC's [Communications & Marketing (C&M)](https://communications.ucsc.edu/) website over to the new network is how to address the [Editorial Style Guide](https://communications.ucsc.edu/editorial/editorial-style-guide/). The original site is built with a bespoke theme and relies heavily on [Advanced Custom Fields (ACF)](https://www.advancedcustomfields.com/). The new site will be on our campus WordPress network, using the official [UCSC Block Theme](https://github.com/ucsc/ucsc-2022). 
+One of the challenges I've encountered in migrating UCSC's [Communications & Marketing (C&M)](https://communications.ucsc.edu/) website over to the new network is how to address the [Editorial Style Guide](https://communications.ucsc.edu/editorial/editorial-style-guide/). The original site is built with a [bespoke theme](https://github.com/ucsc/ucsc-comm-genesis-child) and relies heavily on [Advanced Custom Fields (ACF)](https://www.advancedcustomfields.com/). The new site will be on our campus WordPress network, using the official [UCSC Block Theme](https://github.com/ucsc/ucsc-2022). 
 
 Like most of the original C&M site, the Editorial Style Guide was built using ACF. The style guide itself is a [custom post type (CPT)](https://developer.wordpress.org/plugins/post-types/registering-custom-post-types/) with *26 posts*, with each post consisting of a letter of the English alphabet, A through Z.  
 
@@ -252,7 +252,7 @@ Front-end Style Guide entry with ACF content rendered by shortcode
 
 The next task is to create an "archive" that displays all content from every post of the CPT on a single page.
 
-When setting up a CPT in ACF, one of the options in the **Advanced Settings** allows one to create an **Archive** for the CPT that can be controlled via an archive template in the theme.
+When setting up a CPT in ACF, one of the options in the **Advanced Settings** allows one to create an **Archive** for the CPT that can be controlled via an archive template in the theme Full Site Editor.
 
 ![cpt-archive-option.png](/img/user/attachments/cpt-archive-option.png)
 ACF Archive option in CPT
@@ -261,7 +261,7 @@ I am not using the archive template because our "archive" page also needs to hav
 
 While I'm not using the archive template, I have this option turned on for navigational purposes. As seen in the image above, you have the option of defining an *archive slug* when creating a CPT in ACF (otherwise it inherits the slug of the CPT itself and you can also change its label). This slug will show up in the permalink. 
 
-![[single-permalink.png \| Single CPT post permalink]]
+![single-permalink.png](/img/user/attachments/single-permalink.png)
 CPT Single Permalink
 
 With this option selected, its slug or its label (if defined) will also show up in the breadcrumbs for the single CPT post.
