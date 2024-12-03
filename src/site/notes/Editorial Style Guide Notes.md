@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-03T15:44:09.233-08:00"}
+{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-03T15:44:38.440-08:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
@@ -10,7 +10,7 @@
 
 One of the challenges I've encountered in migrating UCSC's [Communications & Marketing (C&M)](https://communications.ucsc.edu/) website over to the new network is how to address the [Editorial Style Guide](https://communications.ucsc.edu/editorial/editorial-style-guide/). The original site is built with a [bespoke theme](https://github.com/ucsc/ucsc-comm-genesis-child) and relies heavily on [Advanced Custom Fields (ACF)](https://www.advancedcustomfields.com/). The new site will be on our campus WordPress network, using the official [UCSC Block Theme](https://github.com/ucsc/ucsc-2022). 
 
-Like most of the original C&M site, the Editorial Style Guide was built using ACF. The style guide itself is a [custom post type (CPT)](https://developer.wordpress.org/plugins/post-types/registering-custom-post-types/) with *26 posts*, and each post consisting of a letter of the English alphabet, A through Z.  
+Like most of the original C&M site, the Editorial Style Guide was built using ACF. The style guide itself is a [custom post type (CPT)](https://developer.wordpress.org/plugins/post-types/registering-custom-post-types/) with *26 posts*, and each post is a letter of the English alphabet, A through Z.  
 
 The Style Guide CPT has an ACF field group associated with it that holds the guide "definition" content displayed on the front-end. The ACF field group consists of a single [repeater field](https://www.advancedcustomfields.com/resources/repeater/) that contains two additional fields, a [text field](https://www.advancedcustomfields.com/resources/text/) for the "item" and a [WYSIWYG Editor](https://www.advancedcustomfields.com/resources/wysiwyg-editor/) field for the "definition" (see image below).
 
