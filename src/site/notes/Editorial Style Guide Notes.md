@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-03T15:47:33.257-08:00"}
+{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-03T15:49:03.415-08:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
@@ -25,7 +25,7 @@ In the original site, I registered the CPT via a [custom plugin](https://github.
 
 Once this was done, I went into the original site's dashboard and exported *just* the Style Guide's CPT as a `.xml` file and imported it into my dev site.
 
-The import worked perfectly. I had all my posts from the old site and in their editors, I had their ACF fields with all the content. 
+The import worked perfectly. I had all my CPT posts from the old site and in their editors, I had their ACF fields with all the content. 
 
 ## The Problem 
 
