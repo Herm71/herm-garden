@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-03T15:44:38.440-08:00"}
+{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-03T15:47:33.257-08:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
@@ -19,7 +19,9 @@ The original site was built pre-Gutenberg and the ACF content is rendered in `PH
 ## The Process
 ### Export and import fields and content
 
-I was able to export the ACF Field Groups from the current C&M site as `.json` and import them into a local development site that I spun up using [wp-env](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-env/). In the original site, I registered the CPT via a [custom plugin](https://github.com/ucsc/ucsc-communications-custom-functionality). I can't rely on this plugin on the new site, so I used ACF to create an "empty" CPT on my dev site using the exact same name and slug as on the original site. 
+I was able to export the ACF Field Groups from the current C&M site as `.json` and import them into a local development site with ACF that I spun up using [wp-env](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-env/). Our campus network uses ACF, so if I can do this locally I can do this on the network.
+
+In the original site, I registered the CPT via a [custom plugin](https://github.com/ucsc/ucsc-communications-custom-functionality). I can't rely on this plugin on the new site, so I used ACF to create an "empty" CPT on my dev site using the exact same name and slug as on the original site. 
 
 Once this was done, I went into the original site's dashboard and exported *just* the Style Guide's CPT as a `.xml` file and imported it into my dev site.
 
