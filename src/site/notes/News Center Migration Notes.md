@@ -1,8 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/news-center-migration-notes/","hide":true,"tags":["WordPress","work"],"noteIcon":"","created":"2024-08-19T18:57:16.280-07:00","updated":"2024-11-05T10:50:04.548-08:00"}
+{"dg-publish":true,"permalink":"/news-center-migration-notes/","hide":true,"tags":["WordPress","work"],"noteIcon":"","created":"2024-08-19T18:57:16.280-07:00","updated":"2024-12-03T11:33:12.088-08:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[News Center Migration\|News Center Migration]]
+
+## 2024-12-03
+News Block notes
 
 ## 2024-11-05
 Final crunch. Setting sprints and TODOs. Starting today, first sprint runs until next Tues. JC will need to review the news block.

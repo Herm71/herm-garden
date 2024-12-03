@@ -8,8 +8,8 @@
 - [Repository](https://github.com/ucsc/ucsc-custom-functionality)
 - [Issues](https://github.com/ucsc/ucsc-custom-functionality/issues)
 ## Index
-- [[News Block Review Two\|News Block Review Two]]
 - [[Team Notes\|Team Notes]]
+- [[News Block Review Two\|News Block Review Two]]
 - [[News Block PR Review\|News Block PR Review]]
 
 { .block-language-dataview}

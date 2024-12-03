@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-02T17:57:36.721-08:00"}
+{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-03T13:22:03.207-08:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
@@ -250,20 +250,34 @@ Front-end Style Guide entry with ACF content rendered by shortcode
 
 ### Archive "template"
 
-The next task is to create an "archive page" that displays all content from every post of the CPT on a single page.
+The next task is to create an "archive" that displays all content from every post of the CPT on a single page.
 
 When setting up a CPT in ACF, one of the options in the **Advanced Settings** allows one to create an **Archive** for the CPT that can be controlled via an archive template in the theme.
 
-![cpt-archive-option.png](/img/user/attachments/cpt-archive-option.png)
+![[cpt-archive-option.png \| ACF Archive option in CPT]]
 ACF Archive option in CPT
 
-I considered this option. However, our "archive" page also needs to have additional precursor content added to it via the Block Editor that appears above the Style Guide content. So, rather than creating a custom Archive template for our Style Guide content, I created a new Page. I then added the precursor content to the Content Editor and *then* placed the Shortcode Block below it with my `[style-archive]` shortcode in it.
+I am not using the archive template because our "archive" page also needs to have additional precursor content added to it via the Block Editor that appears above the Style Guide content. 
+
+While I'm not using the archive template, I have this option turned on for navigational purposes. As seen in the image above, you have the option of defining an *archive slug* when creating a CPT in ACF (otherwise it inherits the slug of the CPT itself and you can also change its label). This slug will show up in the permalink. 
+![[single-permalink.png \| Single CPT post permalink]]
+With this option selected, its slug or its label (if defined) will also show up in the breadcrumbs for the single CPT post.
+![single-breadcrumb-with-label.png](/img/user/attachments/single-breadcrumb-with-label.png)
+If the Archive option is not selected, its slug will not appear in its breadcrumb (it'll still appear in the permalink).
+
+![single-breadcrumbs-no-archive.png](/img/user/attachments/single-breadcrumbs-no-archive.png)
+
+So, rather than creating a custom archive template for our Style Guide "archive" content, I created a new Page and named it accordingly. I used a redirection plugin to redirect the slug archive `/a-z-style-guide/` to the page slug `/editorial-style-guide/`. This way, when a user clicks "Editorial Style Guide" (the CPT slug's label) in the breadcrumbs, it redirects to the page called "Editorial Style Guide," which is our "archive" page.
+
+I then added the precursor content to our page via the Content Editor and *then* placed the Shortcode Block below it with my `[style-archive]` shortcode in it.
 
 ![style-guide-editor-precursor-content.png](/img/user/attachments/style-guide-editor-precursor-content.png)
 Style Guide Content Editor with precursor content and Shortcode block
 
 ![style-guide-page-precursor-front.png](/img/user/attachments/style-guide-page-precursor-front.png)
 Style Guide Page front-end with precursor content above and Style Guide content below
+
+
 
 Using this approach, I was able to get the exact same functionality as I had on the original site I am migrating from.
 ## Conclusion
