@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-03T13:33:50.938-08:00"}
+{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-03T13:49:24.749-08:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
@@ -56,12 +56,9 @@ Repeater field not supported in Meta Field Block plugin
 
 Since ACF data is stored in `wp_postmeta` and block data is stored in `post_content`, I decided that a [shortcode](https://codex.wordpress.org/Shortcode) would be the best way to display this content. The WordPress Gutenberg editor provides a [Shortcode block](https://wordpress.com/support/wordpress-editor/blocks/shortcode-block/), so a properly developed shortcode (or two) should do the trick. 
 
-As mentioned above, the original bespoke theme used custom loops in custom page and post templates to render field data on the front-end. On the new site, I needed to convert the custom loops into shortcodes.
+As mentioned above, the original bespoke theme used custom loops in custom page and post templates to render field data on the front-end. For the new site, I need to convert the custom loops into shortcodes.
 
-We have a method for adding custom code to UCSC websites. We maintain a [custom functionality plugin](https://github.com/ucsc/ucsc-custom-functionality) that we update regularly. We already provide a few [shortcodes](https://github.com/ucsc/ucsc-custom-functionality/blob/main/lib/functions/shortcodes.php) in this plugin. This means I have a place outside the theme to develop a bit more "custom functionality." The next update of the plugin would make it available for all of our sites (although it would only work on the new C&M site). 
-
-(A second option would be to develop another plugin just for the new site; however, since our network is hosted by CampusPress, we need to get any additional plugins cleared by them before we can upload them to the network, adding bureaucratic overhead. We've already gotten our current custom functionality plugin approved, so I'd recommend adding to the current plugin.)
-
+We have a method for adding custom code to UCSC websites. We maintain a [custom functionality plugin](https://github.com/ucsc/ucsc-custom-functionality) that we update regularly. We already provide a few [shortcodes](https://github.com/ucsc/ucsc-custom-functionality/blob/main/lib/functions/shortcodes.php) in this plugin. This means we have a place outside the theme to develop a bit more "custom functionality." The next update of the plugin would make it available for all of our sites (although it would only work on the new C&M site). 
 ### The Original Single Template Loop
 
 The original site's theme was developed using the [StudioPress Genesis Framework](https://www.studiopress.com/themes/genesis/). The original theme's code below is from the CPT's "`single.php`" template. It removes the default `genesis_loop` and replaces it with the `bb_a_z_style_guide_single_loop()` function, which returns the ACF field data.
@@ -90,7 +87,7 @@ Converting this to a shortcode is not to too difficult. Since I imported my fiel
 
 #### `return`, don't `echo`
 
-An important thing to remember when writing shortcodes in `PHP` is that they are `return`ed not `echo`ed. So, all the `echo` statements in the above function need to be converted to a `return`. I set up an empty string variable at the beginning that I call `$finaldefs`. I build on it using `.=` concatenation and that variable is what is ultimately *returned*.
+An important thing to remember when writing shortcodes in `PHP` is that they are `return`ed not `echo`ed. So, all the `echo` statements in the above function need to be converted to a `return`. I set up an empty string variable at the beginning that I call `$finaldefs`. I build on it using `.=` concatenation and the `$finaldefs` variable is what is ultimately *returned*.
 
 In the following example, the resulting shortcode is called `[style-definition]`.
 
@@ -114,7 +111,7 @@ return $finaldefs;
 
 ### The Original Archive Template Loop
 
-For the "Archive template" (I actually used this in a Page on the original site and not the archive template itself -- but the concept is the same), I wrote a similar loop. The "archive loop" needs to [show *all content* from every CPT post](https://communications.ucsc.edu/editorial/editorial-style-guide/) in addition to some precursor content that appears before it. This is an "A to Z Style Guide" so there are 26 posts in this CPT. The "archive" loop needs to list all posts and their content alphabetically. Navigating the style guide is similar to navigating a dictionary or encyclopedia. The original site's code below does this.
+For the "Archive template" (I actually used this in a Page not the archive template itself -- but the concept is the same), I wrote a similar loop. The "archive loop" needs to [show *all content* from every CPT post](https://communications.ucsc.edu/editorial/editorial-style-guide/) in addition to some precursor content that appears before it. This is an "A to Z Style Guide" so there are 26 posts in this CPT. The "archive" loop needs to list all posts and their content alphabetically. Navigating the style guide is similar to navigating a dictionary or encyclopedia. The original site's code below does this.
 
 ```php
 remove_action( 'genesis_loop', 'genesis_do_loop' );
@@ -167,7 +164,8 @@ function bb_a_z_styles_archive_loop() {
 ```
 
 ### The Post Archive Shortcode
-Converting the above code to a shortcode was similar to converting the single loop. I stripped out all structural `html` and converted my `echo`s to `return`. In this code, the returned variable is `$finalloop` and the resulting shortcode is `[style-archive]`.
+
+Converting the above code to a shortcode was similar to converting the single loop. I stripped out all structural `html` and converted my `echo`s to `return`s. In this code, the returned variable is `$finalloop` and the resulting shortcode is `[style-archive]`.
 
 I didn't need to include any of the `get_the_content()` stuff from the original loop, as we will be able to use the Block Editor for that.
 
@@ -214,17 +212,19 @@ function bb_a_z_styles_archive_loop() {
 Now that I've converted my loop functions to shortcodes, I need to incorporate them into the new site and theme. 
 ### Single posts
 
-As mentioned above, the post titles of this CPT are simply letters of the alphabet; there are 26 posts, A through Z. As also mentioned, WordPress Core provides a Shortcode Block (shortcodes also work in the Paragraph Block). One approach would be to put the Shortcode Block containing the `[style-definition]` shortcode at the top of all 26 posts. This would work, but there is too much repetition (it is not very [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)).
+As mentioned above, the post titles of this CPT are simply letters of the alphabet; there are 26 posts, A through Z. As also mentioned, WordPress Core provides a Shortcode Block (shortcodes also work in the Paragraph Block). 
+
+One approach would be to put the Shortcode Block containing the `[style-definition]` shortcode at the top of all 26 posts. This would work, but there is too much repetition (it is not very [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)).
 
 The approach I'm taking on single posts is to use the [WordPress Full Site Editor](https://wordpress.org/documentation/article/site-editor/) to create a new "Single Posts" template for my CPT. 
 
-The default single template has a [Content Block](https://wordpress.com/support/wordpress-editor/blocks/post-content-block/) that displays all content from a post or page's block editor. Because ACF data is not stored in `post_content`, the Content Block will not work for displaying our ACF Data. So, in my single post template for my CPT, I replaced the Content Block with the Shortcode Block and dropped my `[style-definition]` shortcode into it.
+The default single template has a [Content Block](https://wordpress.com/support/wordpress-editor/blocks/post-content-block/) that displays all content from a post or page's block editor. Because ACF data is not stored in `post_content`, the Content Block will not work for displaying our ACF Data. So, in my CPT single post template I replaced the Content Block with the Shortcode Block and dropped my `[style-definition]` shortcode into it.
 
 ![default-single.png](/img/user/attachments/default-single.png)
 Default Single Post/Page template with Content Block
 
 ![style-single-template.png](/img/user/attachments/style-single-template.png)
-Single Post template for CPT with Shortcode Block and `[style-definitions]` shortcode
+CPT Single Post template with Shortcode Block and `[style-definitions]` shortcode
 
 >[!note] NOTE
 > Removing the *Content Block* from the Template *will not* remove the *Content Editor* from the single-post editor. As the first image in this post illustrates, the Content Editor will appear above the ACF Field Group. 
@@ -260,8 +260,12 @@ ACF Archive option in CPT
 I am not using the archive template because our "archive" page also needs to have additional precursor content added to it via the Block Editor that appears above the Style Guide content. 
 
 While I'm not using the archive template, I have this option turned on for navigational purposes. As seen in the image above, you have the option of defining an *archive slug* when creating a CPT in ACF (otherwise it inherits the slug of the CPT itself and you can also change its label). This slug will show up in the permalink. 
+
 ![[single-permalink.png \| Single CPT post permalink]]
+CPT Single Permalink
+
 With this option selected, its slug or its label (if defined) will also show up in the breadcrumbs for the single CPT post.
+
 ![single-breadcrumb-with-label.png](/img/user/attachments/single-breadcrumb-with-label.png)
 Breadcrumbs showing `/a-z-style-guide/` CPT archive with `Editorial Style Guide` label
 
