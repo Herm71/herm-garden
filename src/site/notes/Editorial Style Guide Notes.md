@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-03T15:49:03.415-08:00"}
+{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-03T16:20:52.316-08:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
@@ -85,6 +85,7 @@ function bb_a_z_style_guide_single_loop(){
 ```
 
 ### The Single Post Shortcode
+
 Converting this to a shortcode is not to too difficult. Since I imported my field definitions from the original site, the names in field calls are exactly the same. I stripped out all the structural `html` code, as it's no longer necessary.
 
 #### `return`, don't `echo`
@@ -211,7 +212,7 @@ function bb_a_z_styles_archive_loop() {
 ```
 ## Incorporating into a Block Theme
 
-Now that I've converted my loop functions to shortcodes, I need to incorporate them into the new site and theme. 
+Now that I've converted my loop functions to shortcodes, I need to incorporate them into the new site and theme. Remember, in order to do so we need a way to add "custom functionality" via the shortcodes to the new site. 
 ### Single posts
 
 As mentioned above, the post titles of this CPT are simply letters of the alphabet; there are 26 posts, A through Z. As also mentioned, WordPress Core provides a Shortcode Block (shortcodes also work in the Paragraph Block). 
