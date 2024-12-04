@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-03T16:20:52.316-08:00"}
+{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-03T16:22:50.698-08:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
@@ -212,7 +212,7 @@ function bb_a_z_styles_archive_loop() {
 ```
 ## Incorporating into a Block Theme
 
-Now that I've converted my loop functions to shortcodes, I need to incorporate them into the new site and theme. Remember, in order to do so we need a way to add "custom functionality" via the shortcodes to the new site. 
+Now that I've converted my loop functions to shortcodes, I need to incorporate them into the new site and theme. Remember, in order to do so we need a way to add "custom functionality" via the shortcodes to the new site. So a plugin would be necessary. 
 ### Single posts
 
 As mentioned above, the post titles of this CPT are simply letters of the alphabet; there are 26 posts, A through Z. As also mentioned, WordPress Core provides a Shortcode Block (shortcodes also work in the Paragraph Block). 
