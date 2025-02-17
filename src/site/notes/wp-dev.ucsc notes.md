@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wp-dev-ucsc-notes/","hide":true,"tags":["work","tech"],"noteIcon":"3","created":"2024-09-05T10:03:07.009-07:00","updated":"2024-10-04T14:42:59.360-07:00"}
+{"dg-publish":true,"permalink":"/wp-dev-ucsc-notes/","hide":true,"tags":["work","tech"],"noteIcon":"3","created":"2025-01-09T07:46:02.040-08:00","updated":"2025-01-09T07:46:02.040-08:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] 

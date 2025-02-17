@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts-on-obsidian/","hide":true,"tags":["draft","obsidian","project-management"],"noteIcon":"1","created":"2024-09-19T18:40:27.571-07:00","updated":"2024-10-03T12:04:04.341-07:00"}
+{"dg-publish":true,"permalink":"/thoughts-on-obsidian/","hide":true,"tags":["draft","obsidian","project-management"],"noteIcon":"1","created":"2025-01-09T07:46:02.016-08:00","updated":"2025-01-09T07:46:02.016-08:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] 

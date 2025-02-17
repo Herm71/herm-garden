@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2024-11-29T09:49:28.225-08:00","updated":"2024-12-03T16:22:50.698-08:00"}
+{"dg-publish":true,"permalink":"/editorial-style-guide-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2025-01-09T07:46:02.015-08:00","updated":"2025-01-09T07:46:02.015-08:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]

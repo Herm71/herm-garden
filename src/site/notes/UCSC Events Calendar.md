@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ucsc-events-calendar/","hide":true,"tags":["work"],"noteIcon":"","created":"2024-07-12T10:25:43.808-07:00","updated":"2024-10-03T11:19:44.033-07:00"}
+{"dg-publish":true,"permalink":"/ucsc-events-calendar/","hide":true,"tags":["work"],"noteIcon":"","created":"2025-01-09T07:46:02.016-08:00","updated":"2025-01-09T07:46:02.016-08:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] 

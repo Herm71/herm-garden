@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/radar/","title":"Radar","hide":true,"tags":["work"],"noteIcon":"","created":"2024-09-21T07:42:22.687-07:00","updated":"2024-10-18T14:24:45.598-07:00"}
+{"dg-publish":true,"permalink":"/radar/","title":"Radar","hide":true,"tags":["work"],"noteIcon":"","created":"2025-01-09T07:46:02.016-08:00","updated":"2025-01-27T08:12:42.462-08:00"}
 ---
 
 
@@ -17,7 +17,6 @@
 
 ## Done
 
-- [ ] [[Foundation Website Launch\|Foundation Website Launch]]
 
 
 ## Ongoing
@@ -35,4 +34,5 @@
 
 - [ ] Test card
 - [ ] Thu, Oct 3rd, 242024 60th logo on campus headers
+- [ ] Mon, Jan 27th, 252025 [[Foundation Website Launch\|Foundation Website Launch]]
 

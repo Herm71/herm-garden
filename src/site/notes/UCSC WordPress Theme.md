@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ucsc-word-press-theme/","hide":true,"tags":["WordPress","work"],"noteIcon":"","created":"2024-08-19T19:12:54.728-07:00","updated":"2024-10-03T11:53:35.541-07:00"}
+{"dg-publish":true,"permalink":"/ucsc-word-press-theme/","hide":true,"tags":["WordPress","work"],"noteIcon":"","created":"2025-01-09T07:46:02.016-08:00","updated":"2025-01-09T07:46:02.016-08:00"}
 ---
 
 [[Dashboard\|Dashboard]] 
