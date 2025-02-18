@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/news-site-build-notes/","hide":true,"tags":["WordPress","work"],"noteIcon":"","created":"2025-02-16T08:21:26.857-08:00","updated":"2025-02-17T22:53:50.138-08:00"}
+{"dg-publish":true,"permalink":"/news-site-build-notes/","hide":true,"tags":["WordPress","work"],"noteIcon":"","created":"2025-02-16T08:21:26.857-08:00","updated":"2025-02-17T22:57:57.493-08:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[News Center Migration\|News Center Migration]]
 
-Notes on building out the News Site based on Modern Tribe's completed work and general notes as this is the first build of the entire site.
+Notes on building out the News Site based on Modern Tribe's completed work and general notes on the initial build of the site.
 
 ## Featured News Block
 - The **FNB** cannot be used in an *Archive Template*. It will not pull in the posts from that archive (e.g., the *Sections Template*). Selecting the "Most Recent Posts" option pulls in the most recent *Posts* based on the primary post-query, not the most recent posts of a taxonomy, such as *Sections*.
