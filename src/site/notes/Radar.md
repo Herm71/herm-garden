@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/radar/","title":"Radar","hide":true,"tags":["work"],"noteIcon":"","created":"2025-01-09T07:46:02.016-08:00","updated":"2025-01-27T08:12:42.462-08:00"}
+{"dg-publish":true,"permalink":"/radar/","title":"Radar","hide":true,"tags":["work"],"noteIcon":"","created":"2025-01-09T07:46:02.016-08:00","updated":"2025-02-17T22:59:29.720-08:00"}
 ---
 
 
@@ -24,7 +24,7 @@
 - [ ] [[UCSC Custom Functionality Plugin\|UCSC Custom Functionality Plugin]]
 - [ ] [[UCSC Events Calendar\|UCSC Events Calendar]]
 - [ ] [[UCSC WordPress Theme\|UCSC WordPress Theme]]
-- [ ] [[News Center Migration\|News Center Migration]]
+- [ ] [[News Site Migration\|News Site Migration]]
 - [ ] [[Web Team\|Web Team]]
 
 

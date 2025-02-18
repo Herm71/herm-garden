@@ -4,13 +4,13 @@
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
 ## Projects
+- [[News Site Migration\|News Site Migration]]
 - [[Web Team\|Web Team]]
 - [[UCSC WordPress Theme\|UCSC WordPress Theme]]
 - [[UCSC News Functionality Plugin\|UCSC News Functionality Plugin]]
 - [[UCSC Gutenberg Blocks Plugin\|UCSC Gutenberg Blocks Plugin]]
 - [[UCSC Events Calendar\|UCSC Events Calendar]]
 - [[UCSC Custom Functionality Plugin\|UCSC Custom Functionality Plugin]]
-- [[News Center Migration\|News Center Migration]]
 - [[C&M Website Migration\|C&M Website Migration]]
 
 { .block-language-dataview}

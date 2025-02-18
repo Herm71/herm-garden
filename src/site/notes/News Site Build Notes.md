@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/news-site-build-notes/","hide":true,"tags":["WordPress","work"],"noteIcon":"","created":"2025-02-16T08:21:26.857-08:00","updated":"2025-02-17T22:57:57.493-08:00"}
+{"dg-publish":true,"permalink":"/news-site-build-notes/","hide":true,"tags":["WordPress","work"],"noteIcon":"","created":"2025-02-16T08:21:26.857-08:00","updated":"2025-02-17T22:59:29.719-08:00"}
 ---
 
-[[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[News Center Migration\|News Center Migration]]
+[[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[News Site Migration\|News Site Migration]]
 
 Notes on building out the News Site based on Modern Tribe's completed work and general notes on the initial build of the site.
 
