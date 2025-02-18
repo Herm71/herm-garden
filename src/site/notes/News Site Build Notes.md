@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/news-site-build-notes/","tags":["WordPress","work"],"noteIcon":"","created":"2025-02-16T08:21:26.857-08:00","updated":"2025-02-17T22:33:07.288-08:00"}
+{"dg-publish":true,"permalink":"/news-site-build-notes/","hide":true,"tags":["WordPress","work"],"noteIcon":"","created":"2025-02-16T08:21:26.857-08:00","updated":"2025-02-17T22:36:56.831-08:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[News Center Migration\|News Center Migration]]
