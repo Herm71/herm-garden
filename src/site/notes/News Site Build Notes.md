@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/news-site-build-notes/","hide":true,"tags":["WordPress","work"],"noteIcon":"","created":"2025-02-16T08:21:26.857-08:00","updated":"2025-02-17T22:50:26.980-08:00"}
+{"dg-publish":true,"permalink":"/news-site-build-notes/","hide":true,"tags":["WordPress","work"],"noteIcon":"","created":"2025-02-16T08:21:26.857-08:00","updated":"2025-02-17T22:51:32.771-08:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[News Center Migration\|News Center Migration]]
@@ -21,7 +21,7 @@ Our archive templates are not consistent.
 - **Media Coverage Archive** is the template that shows all our Media Coverage entries. Neither the **Category Archive** nor the **All Archives** templates are appropriate for these items. I have created a new archive with a new loop to display these based loosely on the **POTW Archive**
 - **Section Archives** display posts from our various sections. Our approach to these might need to be adjusted.
 - **Photo of the Week Archive** developed by Modern Tribe. Looks good but is inconsistent with some of the overall design elements (e.g., pagination).
-## "Related Topics" and taxonomies blocks
+## Taxonomies Blocks "Related Topics"
 The **Single Post Template** developed by MT adds additional text and styling to the default taxonomies blocks (Categories, Tags, Sections, etc.), namely a header that says "Related Topics." This treatment appears *no matter where* one uses the taxonomies blocks. I'm not sure if this is the desired affect.
 # Tasks
 - [ ] Todos go here
