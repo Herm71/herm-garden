@@ -4,6 +4,7 @@
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
 ## Projects
+- [[Giving Designation Funds Search\|Giving Designation Funds Search]]
 - [[News Site Migration\|News Site Migration]]
 - [[Web Team\|Web Team]]
 - [[UCSC WordPress Theme\|UCSC WordPress Theme]]
