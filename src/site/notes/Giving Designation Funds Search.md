@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/giving-designation-funds-search/","tags":["WordPress","work"],"noteIcon":"","created":"2025-02-19T08:57:45.856-08:00","updated":"2025-02-19T14:45:54.463-08:00"}
+{"dg-publish":true,"permalink":"/giving-designation-funds-search/","tags":["WordPress","work"],"noteIcon":"","created":"2025-02-19T08:57:45.856-08:00","updated":"2025-02-19T20:19:21.725-08:00"}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
@@ -10,7 +10,6 @@ University Advancement, Alumni Giving has an existing [Alumni Giving Designation
 The approach to this Project is to utilize **Advanced Custom Fields** to create a *Custom Post Type* with *Custom Fields* that will contain the designation search tool data. Users will be able to search the Funds database based on the data in these custom fields.
 
 A custom WordPress template or page will be used to display the listings. Custom search functionality will be implemented that users can filter and search by the custom fields.
-
 ## Constraints
 The new Giving site will be on our CampusPress network, which restricts our ability to create a custom plugin; therefore, as much functionality as possible needs to be done within the interface of the WordPress Dashboard.
 
