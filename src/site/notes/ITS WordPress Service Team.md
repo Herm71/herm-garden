@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/its-word-press-service-team/","tags":["WordPress","work"],"noteIcon":"","created":"2025-01-09T07:46:02.016-08:00","updated":"2025-01-09T07:46:02.016-08:00"}
+{"dg-publish":true,"permalink":"/its-word-press-service-team/","tags":["WordPress","work"]}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] 

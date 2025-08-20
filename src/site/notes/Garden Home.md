@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden-home/","title":"Jason Chafin's Digital Garden","hide":true,"tags":["gardenEntry"],"noteIcon":"","created":"2025-01-09T07:46:02.015-08:00","updated":"2025-01-09T07:46:02.015-08:00"}
+{"dg-publish":true,"permalink":"/garden-home/","title":"Jason Chafin's Digital Garden","hide":true,"tags":["gardenEntry"]}
 ---
 
 Welcome to my [Digital Garden](https://maggieappleton.com/garden-history). This is my attempt at organizing my thoughts and sharing them to the web. This  is a work in progress, as I am still learning the contours of this new concept. 

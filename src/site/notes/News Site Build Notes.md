@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/news-site-build-notes/","hide":true,"tags":["WordPress","work"],"noteIcon":"","created":"2025-02-16T08:21:26.857-08:00","updated":"2025-02-17T22:59:29.719-08:00"}
+{"dg-publish":true,"permalink":"/news-site-build-notes/","hide":true,"tags":["WordPress","work"]}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] > [[News Site Migration\|News Site Migration]]
@@ -23,6 +23,5 @@ Our archive templates are not consistent.
 - **Photo of the Week Archive** developed by Modern Tribe. Looks good but is inconsistent with some of the overall design elements (e.g., pagination).
 ## Taxonomies Blocks "Related Topics"
 The **Single Post Template** developed by MT adds additional text and styling to the default taxonomies blocks (Categories, Tags, Sections, etc.), namely a header that reads "Related Topics." This treatment appears *no matter where* one uses the taxonomies blocks ([custom loops](https://dev-news-ucsc.pantheonsite.io/sections/#:~:text=and%20breaking%20news-,RELATED%20TOPICS,-Climate%20%26%20Sustainability), etc.). I'm not sure if this is the desired affect.
-# Tasks
-- [ ] Todos go here
+
 

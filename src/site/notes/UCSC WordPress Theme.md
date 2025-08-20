@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ucsc-word-press-theme/","hide":true,"tags":["WordPress","work"],"noteIcon":"","created":"2025-01-09T07:46:02.016-08:00","updated":"2025-01-09T07:46:02.016-08:00"}
+{"dg-publish":true,"permalink":"/ucsc-word-press-theme/","hide":true,"tags":["WordPress","work"]}
 ---
 
 [[Dashboard\|Dashboard]] 
@@ -18,10 +18,7 @@ Project overview of UCSC WordPress Theme
 
 ## To do
 
-- [ ] Yes
-- [ ] No, this doesn't need tests because...
-- [ ] No, I need help figuring out how to write the tests.
-- [ ] GTM [Button click tracking](https://usefathom.com/learn/track-button-clicks-google-analytics) (for Adam)
+- [ ] 📅 2025-07-08 Close/Manage tickets in ServiceNow🛫 2025-07-08 🔼
 - [ ] [Mark Budz issue](https://github.com/ucsc/ucsc-2022/issues/348): Try playing around with DOM elements in code-pen. See if possibled to pull one element on top of another with no whitespace beneath it.🔼
 
 { .block-language-dataview}

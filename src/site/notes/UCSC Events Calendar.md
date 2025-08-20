@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ucsc-events-calendar/","hide":true,"tags":["work"],"noteIcon":"","created":"2025-01-09T07:46:02.016-08:00","updated":"2025-01-09T07:46:02.016-08:00"}
+{"dg-publish":true,"permalink":"/ucsc-events-calendar/","hide":true,"tags":["work"]}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] 
@@ -10,6 +10,7 @@ Project page for work on the Events Calendar
 
 ## Index
 - [[Update communication\|Update communication]]
+- [[New Events Calendar\|New Events Calendar]]
 - [[Events Calendar Notes\|Events Calendar Notes]]
 - [[Convert Events Calendar Docs\|Convert Events Calendar Docs]]
 

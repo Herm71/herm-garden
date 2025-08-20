@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ucsc-custom-functionality-plugin/","hide":true,"tags":["work","WordPress"],"noteIcon":"1","created":"2025-01-09T07:46:02.016-08:00","updated":"2025-01-09T07:46:02.016-08:00"}
+{"dg-publish":true,"permalink":"/ucsc-custom-functionality-plugin/","hide":true,"tags":["work","WordPress"]}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] 
@@ -9,15 +9,14 @@
 - [Issues](https://github.com/ucsc/ucsc-custom-functionality/issues)
 ## Index
 - [[Team Notes\|Team Notes]]
-- [[Sprint 24.02\|Sprint 24.02]]
 - [[News Block Review Two\|News Block Review Two]]
 - [[News Block PR Review\|News Block PR Review]]
+- [[Custom Functionality Plugin Notes\|Custom Functionality Plugin Notes]]
 
 { .block-language-dataview}
 
 ## To do
 
-- [ ] GTM [Button click tracking](https://usefathom.com/learn/track-button-clicks-google-analytics) (for Adam)
-- [ ] Todos go here
+- [ ] 📅 2025-07-08 Close/Manage tickets in ServiceNow🛫 2025-07-08 🔼
 
 { .block-language-dataview}

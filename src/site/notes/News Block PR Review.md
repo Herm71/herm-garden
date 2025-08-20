@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/news-block-pr-review/","hide":true,"noteIcon":"","created":"2025-01-09T07:46:02.016-08:00","updated":"2025-01-09T07:46:02.016-08:00"}
+{"dg-publish":true,"permalink":"/news-block-pr-review/","hide":true}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]]
@@ -14,15 +14,15 @@ This PR adds a **News Block** icon in the block chooser of a Page or Post editor
 >This is a functional prototype. It pulls posts from [Pantheon Dev News](https://dev-news-ucsc.pantheonsite.io/) into a block, returning structured html. Here are a number of fixes and suggestions:
 >
 >**Fixes:**
->- [[News Block PR Review#Header Alignment\|#Header Alignment]]
->- [[News Block PR Review#More News Link\|#More News Link]]
->- [[News Block PR Review#Whole Card Wrapped in Link\|#Whole Card Wrapped in Link]]
+>- [[#Header Alignment]]
+>- [[#More News Link]]
+>- [[#Whole Card Wrapped in Link]]
 >
 >**Questions:**
->- Should the presence of the block be indicated in the [[News Block PR Review#Editor Experience\|#Editor Experience]]?
->- Should [[News Block PR Review#Title and Description\|#Title and Description]] be stylable?
->- Are we omitting [[News Block PR Review#Taxonomies\|#Taxonomies]] on purpose?
->- Should we be able to control the number of [[News Block PR Review#Posts per page\|#Posts per page]]?
+>- Should the presence of the block be indicated in the [[#Editor Experience]]?
+>- Should [[#Title and Description]] be stylable?
+>- Are we omitting [[#Taxonomies]] on purpose?
+>- Should we be able to control the number of [[#Posts per page]]?
 
 
 # Analysis

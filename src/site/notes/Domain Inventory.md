@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/domain-inventory/","hide":true,"tags":["home","tech"],"noteIcon":"","created":"2025-01-09T07:46:02.015-08:00","updated":"2025-01-09T07:46:02.015-08:00"}
+{"dg-publish":true,"permalink":"/domain-inventory/","hide":true,"tags":["home","tech"]}
 ---
 
 [[Dashboard\|Dashboard]] | [[Garden Home\|Garden Home]] 

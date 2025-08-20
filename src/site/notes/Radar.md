@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/radar/","title":"Radar","hide":true,"tags":["work"],"noteIcon":"","created":"2025-01-09T07:46:02.016-08:00","updated":"2025-02-19T11:46:56.554-08:00"}
+{"dg-publish":true,"permalink":"/radar/","title":"Radar","hide":true,"tags":["work"]}
 ---
 
 
@@ -12,7 +12,7 @@
 ## Started
 
 - [ ] [[News Site Migration\|News Site Migration]]
-- [ ] [[C&M Website Migration\|C&M Website Migration]]
+- [ ] [[Communications Website Migration\|Communications Website Migration]]
 - [ ] [[Giving Site Migration\|Giving Site Migration]]
 - [ ] [[Giving Designation Funds Search\|Giving Designation Funds Search]]
 
